@@ -16,12 +16,7 @@ from torch.utils.tensorboard import SummaryWriter
 from utils import print_examples
 from New_Pruned_Model import EncoderCNN
 
-
-
-
 mse_loss = nn.MSELoss()
-
-
 def match_hidden_states(sub_network_hidden_states, decoder_hidden_states , num_selected_layers = 3):
     # Here we have to select the layers coming with decoder network
     num_total_layers = len(decoder_hidden_states)
@@ -35,16 +30,14 @@ def match_hidden_states(sub_network_hidden_states, decoder_hidden_states , num_s
         loss += mse_loss(sub_state, dec_state)
     return loss
 
-
 def train():
-
     transform = transforms.Compose([transforms.Resize((350,350)),
                                 transforms.RandomCrop((256,256)),
                                 transforms.ToTensor(),
                                 transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
 
-    images_path , caption_path = r"C:\Users\DELL\Desktop\Jishu\flickr8k\Images" , r"C:\Users\DELL\Desktop\Jishu\flickr8k\captions.txt"
-    pruned_resnet_model_path = r"Pruned_ResNet\fine_tuned_model.pth"
+    images_path , caption_path = r"D:\ML\Korea\Jishu\Jishu\rsicd\images" , r"D:\ML\Korea\Jishu\Jishu\rsicd\captions.csv"
+    pruned_resnet_model_path = r"D:\ML\Korea\Jishu\Jishu\Cnn_Pruning\Pruned_Resnet\fine_tuned_model.pth"
     
     BATCH_SIZE = 32
     data_loader , dataset = get_loader(images_path,caption_path ,transform,batch_size = BATCH_SIZE,num_workers=4)
@@ -78,55 +71,34 @@ def train():
     criterion2 = nn.CrossEntropyLoss(ignore_index=pad_idx)
     
     l = []
-    
     for epoch in range(num_epochs):
-        
         print(f"[Epoch {epoch} / {num_epochs}]")
-        
-        
-        
         model.eval()
         pruned_model.train()
         Total_loss = 0.0
         for idx, (images, captions) in tqdm(enumerate(data_loader), total=len(data_loader), leave=False):
-            
             images = images.to(device)
             captions = captions.to(device)
-            
             with torch.no_grad():
                 output , hidden_original_decoder_outputs = model(images, captions[:-1])
             pruned_model_outputs , hidden_pruned_decoder_outputs = pruned_model(images , captions[:-1])
-            
-            
             #print(pruned_model_outputs.shape)
-            
             #outputs = output.reshape(-1, output.shape[2])
             pruned_model_outputs = pruned_model_outputs.reshape(-1 , pruned_model_outputs.shape[2])
-            
-            
-            
             target = captions[1:].reshape(-1).to(device)
-         
             # Now calculate two losses : One associated with the general targets and another with the hidden_state_losses of the decoder
             optimizer.zero_grad()
-            
             loss_match = criterion2(pruned_model_outputs , target) # This will be the similarity between the outputs of the original model and the pruned model
-            
             # Compute the L2 Regularization loss of the encoder weights
             l2_reg = pruned_model.encoder.compute_penalty(encoder_regularization_penalty)
-            
             mse_loss = match_hidden_states(hidden_pruned_decoder_outputs,hidden_original_decoder_outputs)
             dec_loss = mse_loss * decoder_regularizartion_penalty
-            
             # Now calculate the total loss
             total_loss = loss_match + l2_reg + dec_loss
-            
             lossofepoch = total_loss.item()
             Total_loss += lossofepoch
-            
             total_loss.backward()
             torch.nn.utils.clip_grad_norm_(pruned_model.parameters(),max_norm=1)
-            
             optimizer.step()
             writer.add_scalar("Training Loss",Total_loss,global_step=step)
             step+=1

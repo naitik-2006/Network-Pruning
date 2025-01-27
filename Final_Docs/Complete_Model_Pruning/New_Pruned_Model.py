@@ -219,56 +219,35 @@ class DecoderPruning(nn.Module):
         
         return output, hidden_states
         
-class EncodertoDecoder(nn.Module):
+class PrunedEncodertoDecoder(nn.Module):
     def __init__(self,embeding_size=512,trg_vocab_size=2994,num_heads=8,num_decoder_layers=4,dropout=0.02 , pruned_resnet_model_path = None):
-        super(EncodertoDecoder,self).__init__()
-  
+        super(PrunedEncodertoDecoder,self).__init__()
+
         #self.image_encoder = EncoderCNN(embeding_size)
-        
         self.encoder = TransformersEncoder(embeding_size, num_heads, 4 , dropout)
-        
         self.decoder = TransformersDecoder(embeding_size, trg_vocab_size, num_heads, num_decoder_layers, dropout)
-        
-       
         self.pruned_image_encoder = torch.load(pruned_resnet_model_path)
                                            
-        
     def forward(self , image , caption):
-        
-        
+                
        # features = self.image_encoder(image) #This one is for without pruning
         features = self.pruned_image_encoder(image) # This one is for pruned_model
-       
         features = self.encoder(features)
-        
-        
         output , hidden_states = self.decoder(features , caption)
-        
         return output , hidden_states
     
-class PrunedEncodertoDecoder(nn.Module):
-    def __init__(self , embeding_size = 512 , trg_vocab_size = 2994 , num_heads = 8 , num_decoder_layers = 4 , dropout = 0.2 , num_selected_decoder_layers = 3, pruned_resnet_model_path = None):
-        super(PrunedEncodertoDecoder , self).__init__()
-        
-        self.pruned_image_encoder = torch.load(pruned_resnet_model_path)
-        self.encoder = TransformersEncoder(embeding_size , num_heads , 4 , dropout)
-        self.original_decoder = TransformersDecoder(embeding_size, trg_vocab_size, num_heads, num_decoder_layers, dropout)
-        self.pruned_decoder = DecoderPruning(self.original_decoder.decoder, num_selected_layers = num_selected_decoder_layers , trg_vocab_size=trg_vocab_size , embedding_size=embeding_size)
-        
+class EncodertoDecoder(nn.Module):
+    def __init__(self,embeding_size=512,trg_vocab_size=2992,num_heads=8,num_decoder_layers=4,dropout=0.2):
+        super(EncodertoDecoder,self).__init__()
+
+        self.image_encoder = EncoderCNN(embeding_size)
+        self.encoder = TransformersEncoder(embeding_size, num_heads, 4 , dropout)
+        self.decoder = TransformersDecoder(embeding_size, trg_vocab_size, num_heads, num_decoder_layers, dropout)
+                                                
     def forward(self , image , caption):
-        
-        features = self.pruned_image_encoder(image)
-        print(features.shape)
+                
+        features = self.image_encoder(image) #This one is for without pruning
         features = self.encoder(features)
-        print(features.shape)
-        output , hidden_states = self.pruned_decoder(caption , features)
-        
+        output , hidden_states = self.decoder(features , caption)
         return output , hidden_states
-        
-    
-    
-    
-    
-    
-    
     

@@ -35,7 +35,7 @@ def print_examples(model, device, validation_dataset):
     model.eval()
     
     # Now load some examples and then try to print them
-    images_path , caption_path = r"C:\Users\DELL\Desktop\Jishu\flickr8k\Images" , r"C:\Users\DELL\Desktop\Jishu\flickr8k\captions.txt"
+    images_path , caption_path = r"D:\ML\Korea\Jishu\Jishu\rsicd\images" , r"D:\ML\Korea\Jishu\Jishu\rsicd\captions.csv"
     
     
     validation_dataloader , _ = get_loader(images_path, caption_path, transform , train = False)

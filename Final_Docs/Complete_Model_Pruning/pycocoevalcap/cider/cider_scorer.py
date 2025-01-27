@@ -90,6 +90,7 @@ class CiderScorer(object):
             self.crefs.extend(other.crefs)
 
         return self
+    
     def compute_doc_freq(self):
         '''
         Compute term frequency for reference data.

@@ -5,6 +5,7 @@ Created on Mon May 27 16:57:52 2024
 @author: jishu
 """
 import torch
+import json
 
 from rouge_score import rouge_scorer
 from pycocoevalcap.cider import cider
@@ -37,6 +38,7 @@ def run_validation(model, validation_dataloader, validation_dataset, max_len, de
 
     expected = []
     predicted = []
+    results_dict = {}
 
     with torch.no_grad():
         for idx , (image , caption) in enumerate(validation_dataloader):
@@ -77,7 +79,16 @@ def run_validation(model, validation_dataloader, validation_dataset, max_len, de
 
             expected.append(target_text_2.strip())
             predicted.append(model_out_text.strip())
+            results_dict = {}  # Initialize an empty dictionary
 
+            results_dict[target_text_2.strip()] = model_out_text.strip()
+
+            # Alternatively, if you have a loop for multiple pairs, you can use:
+            
+            print("Expected :- ", target_text_2)
+            print("Predicted :- ", model_out_text)
+            results_dict[idx] = [expected,predicted]
+        
     if writer:
         # Compute the ROUGE scores
         scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=True)
@@ -136,6 +147,9 @@ def run_validation(model, validation_dataloader, validation_dataset, max_len, de
         print("ROUGE-2 = ", rouge2)
         print("ROUGE-L = ", rougeL)
         print("CIDEr = ", ciders)
+        
+    with open("results.json", "w") as json_file:
+        json.dump(results_dict, json_file, indent=4)
 
 # The rest of your code, such as data loading and model definition, goes here.
 
@@ -167,7 +181,7 @@ if __name__ == "__main__":
     
     
     # Now we load the model
-    model = torch.load('unpruned_model.pth')
+    model = torch.load('model.pth')
     model = model.to(device)
     
     # Initialize the tensorboard
