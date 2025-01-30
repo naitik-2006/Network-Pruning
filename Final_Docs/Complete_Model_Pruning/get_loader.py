@@ -8,12 +8,7 @@ from torch.nn.utils.rnn import pad_sequence
 from sklearn.model_selection import train_test_split
 
 spacy_eng=spacy.load("en_core_web_sm")
-
-
 # Now we have to change to handle train and test cases
-
-
-
 class Vocabulary:
     def __init__(self,freq_threshold):
         self.itos={0:"<PAD>" , 1 :"<SOS>" , 2: "<EOS>" , 3:"<UNK>"}
@@ -73,9 +68,6 @@ class FlickerData(Dataset):
         else:
             self.imgs = self.test_df["image"].reset_index(drop = True)
             self.captions = self.test_df["caption"].reset_index(drop = True)
-            
-        
-        
         self.caption=self.df["caption"]
         
         self.vocab=Vocabulary(freq_threshold)
