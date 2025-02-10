@@ -40,8 +40,11 @@ class EncoderCNN(nn.Module):
 
     def forward(self, images):
         features = self.resnet(images)
+        print(features.shape)
         features = features.reshape(features.shape[0] , features.shape[1] , -1)
+        print(features.shape)
         features = features.permute(2 , 0 , 1)
+        print(features.shape)
         features = self.fc(features)
         return features
    
@@ -86,7 +89,10 @@ class TransformersEncoder(nn.Module):
         
         #encoder_output = x.permute(1 , 0 , 2) # (seq_len x batch_size x embeding_dim)
         encoder_output = self.positional_encoding(x) # (1 x batch_size x embedding_dim)
+        
+        print(encoder_output.shape)
         encoder_output = self.encoder(encoder_output)
+        print(encoder_output.shape)
         
         return encoder_output
     
@@ -247,6 +253,7 @@ class EncodertoDecoder(nn.Module):
     def forward(self , image , caption):
                 
         features = self.image_encoder(image) #This one is for without pruning
+        print(features.shape)
         features = self.encoder(features)
         output , hidden_states = self.decoder(features , caption)
         return output , hidden_states

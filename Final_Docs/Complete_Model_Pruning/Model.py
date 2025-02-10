@@ -110,6 +110,7 @@ class TransformersEncoder(nn.Module):
         x = self.positional_encoding(x) # (1 x batch_size x embedding_dim)
         encoder_output = self.encoder(encoder_output)
         return encoder_output
+    
 class TransformersDecoder(nn.Module):
     def __init__(self,embeding_size,trg_vocab_size,num_heads,num_decoder_layers,dropout):
         super(TransformersDecoder,self).__init__()
@@ -152,8 +153,7 @@ class EncodertoDecoder(nn.Module):
                                                 
     def forward(self , image , caption):
                 
-        features = self.image_encoder(image) #This one is for without pruning
-        #features = self.pruned_image_encoder(image) # This one is for pruned_model
+        features = self.image_encoder(image)
         features = self.encoder(features)
         output = self.decoder(features , caption)
         return output

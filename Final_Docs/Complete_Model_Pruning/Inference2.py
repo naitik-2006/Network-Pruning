@@ -73,7 +73,6 @@ def run_validation(model, validation_dataloader, validation_dataset, max_len, de
 
             # Iterate over the predicted tokens
             for i in model_out:
-                 
                 token = i
                 if token == '<EOS>':
                     break

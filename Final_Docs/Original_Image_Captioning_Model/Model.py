@@ -61,7 +61,8 @@ class PositionalEncoding(nn.Module):
         """
         #print(self.pe.shape)
         x = x + self.pe[:x.size(0)]
-        return self.dropout(x)    
+        return self.dropout(x)  
+    
 class PositionalEncoding_2D(nn.Module):
     def __init__(self, d_model: int, height: int = 8, width: int = 8, dropout_prob: float = 0.1):
         super(PositionalEncoding_2D, self).__init__()
@@ -105,9 +106,9 @@ class TransformersEncoder(nn.Module):
         self.encoder = nn.TransformerEncoder(encoder_layer=self.encoder_layer, num_layers=self.num_encoder_layers)
         self.positional_encoding = PositionalEncoding(d_model=embed_size)
 
-    def forward(self, x): # Images are in the shape of (batch_size x embedding_dim)
+    def forward(self, x): # Images are in the shape of (batch_size x seq_len, embedding_dim)
         encoder_output = x.permute(1 , 0 , 2) # (seq_len x batch_size x embeding_dim)
-        x = self.positional_encoding(x) # (1 x batch_size x embedding_dim)
+        encoder_output = self.positional_encoding(encoder_output) # (seq_len x batch_size x embedding_dim)
         encoder_output = self.encoder(encoder_output)
         return encoder_output
 class TransformersDecoder(nn.Module):
@@ -120,7 +121,7 @@ class TransformersDecoder(nn.Module):
         self.decoder_layer = nn.TransformerDecoderLayer(d_model=embeding_size, nhead=num_heads)
         self.decoder= nn.TransformerDecoder(self.decoder_layer, num_layers=num_decoder_layers)
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        
+        self.padding_idx = 0
         self.linear = nn.Linear(embeding_size , trg_vocab_size)
         self.drop = nn.Dropout(dropout)
         
@@ -138,22 +139,24 @@ class TransformersDecoder(nn.Module):
         embed = self.drop(self.embedding(caption))
         embed = self.pos(embed)
         trg_mask = self.make_mask(tgt_seq_length).to(self.device)
-        decoder = self.decoder(tgt = embed , memory = features , tgt_mask = trg_mask )
+        padding_mask = (caption == self.padding_idx)
+        padding_mask = padding_mask.transpose(0,1).to(self.device)
+        
+        decoder = self.decoder(tgt = embed , memory = features , tgt_mask = trg_mask , tgt_key_padding_mask = padding_mask)
         output = self.linear(decoder)
         return output
                
 class EncodertoDecoder(nn.Module):
-    def __init__(self,embeding_size=512,trg_vocab_size=2992,num_heads=8,num_decoder_layers=4,dropout=0.2):
+    def __init__(self,embeding_size=512,trg_vocab_size=2992,num_heads=8,num_decoder_layers=4,dropout=0.2, train_cnn = False):
         super(EncodertoDecoder,self).__init__()
-
-        self.image_encoder = EncoderCNN(embeding_size)
+        
+        self.image_encoder = EncoderCNN(embeding_size, train_cnn)
+        self.image_encoder.load_state_dict(torch.load("D:\ML\Korea\Jishu\Jishu\Final_Docs\Original_Image_Captioning_Model\original_resenet_model.pth"))
         self.encoder = TransformersEncoder(embeding_size, num_heads, 4 , dropout)
         self.decoder = TransformersDecoder(embeding_size, trg_vocab_size, num_heads, num_decoder_layers, dropout)
                                                 
     def forward(self , image , caption):
-                
-        features = self.image_encoder(image) #This one is for without pruning
-        #features = self.pruned_image_encoder(image) # This one is for pruned_model
+        features = self.image_encoder(image) 
         features = self.encoder(features)
         output = self.decoder(features , caption)
         return output
