@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a house and a swimming pool located in a lawn near the forest with a plane parked on the lawn .",
+        "Pruned_Predicted": "a building with a swimming pool is surrounded by some sparse green trees .",
+        "Unpruned_Predicted": "a building with a swimming pool is surrounded by many green trees and meadows ."
+    }
+]

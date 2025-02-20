@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> three lakes lie between mountains with white and green mountain peaks .",
+        "Pruned_Predicted": "it 's a piece of yellow mountain with snow in part .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

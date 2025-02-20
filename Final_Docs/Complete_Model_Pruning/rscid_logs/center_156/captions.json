@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some green trees and a large building are around a circle center building .",
+        "Pruned_Predicted": "a large building is near a road with green trees in two sides .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> some green trees and a large building are around a circle building center .",
+        "Pruned_Predicted": "a large building is near a road with green trees in two sides .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

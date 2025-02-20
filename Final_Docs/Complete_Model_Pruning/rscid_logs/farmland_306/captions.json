@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the farm is divided into different parts .",
+        "Pruned_Predicted": "many pieces of yellow farmlands are together .",
+        "Unpruned_Predicted": "many planes are parked near several terminals at an airport ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the lawn unique semicircle .",
+        "Pruned_Predicted": "a playground with a basketball field next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several green trees ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> houses are built on both sides of the road with a garden each .",
+        "Pruned_Predicted": "many green buildings and trees are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

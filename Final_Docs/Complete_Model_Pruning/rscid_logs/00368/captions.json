@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a baseball field and a playground are next to a road .",
+        "Pruned_Predicted": "a baseball field is surrounded by several buildings and a road .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many buildings ."
+    },
+    {
+        "Expected": "<SOS> a baseball field is near to a playground .",
+        "Pruned_Predicted": "a baseball field is surrounded by several buildings and a road .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many buildings ."
+    },
+    {
+        "Expected": "<SOS> a baseball field is next to a playground in a black .",
+        "Pruned_Predicted": "a baseball field is surrounded by several buildings and a road .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many buildings ."
+    }
+]

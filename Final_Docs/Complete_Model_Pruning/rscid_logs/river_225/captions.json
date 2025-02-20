@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the twisty khaki river is across the dense forest .",
+        "Pruned_Predicted": "the turbid river drains into another river .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    },
+    {
+        "Expected": "<SOS> there is a bald stripe of land in the forest embraces this curved yellow river .",
+        "Pruned_Predicted": "the turbid river drains into another river .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    }
+]

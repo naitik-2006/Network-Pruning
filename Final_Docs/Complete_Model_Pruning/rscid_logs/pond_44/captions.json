@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> an irregular green pond is surrounded by several gray buildings and many trees .",
+        "Pruned_Predicted": "many green trees and some buildings are around a pond .",
+        "Unpruned_Predicted": "many green trees and some buildings are in a park with a pond ."
+    },
+    {
+        "Expected": "<SOS> the pond looking like a high <UNK> <UNK> is next to five villas and a tract of red and green trees .",
+        "Pruned_Predicted": "many green trees and some buildings are around a pond .",
+        "Unpruned_Predicted": "many green trees and some buildings are in a park with a pond ."
+    }
+]

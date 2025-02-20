@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> here lies a green soccer field in this lawn next to the <UNK> ground .",
+        "Pruned_Predicted": "a football field is near some green trees and a building .",
+        "Unpruned_Predicted": "a football field is near several buildings and a road with several cars ."
+    },
+    {
+        "Expected": "<SOS> a football field is near several green trees and meadows .",
+        "Pruned_Predicted": "a football field is near some green trees and a building .",
+        "Unpruned_Predicted": "a football field is near several buildings and a road with several cars ."
+    },
+    {
+        "Expected": "<SOS> on the lawn built a football field with some trees nearby .",
+        "Pruned_Predicted": "a football field is near some green trees and a building .",
+        "Unpruned_Predicted": "a football field is near several buildings and a road with several cars ."
+    }
+]

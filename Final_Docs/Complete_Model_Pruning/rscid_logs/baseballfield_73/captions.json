@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the <UNK> of five baseball fields form into a pentagon .",
+        "Pruned_Predicted": "four baseball fields are surrounded by many green trees and buildings .",
+        "Unpruned_Predicted": "a baseball field is surrounded by many green trees and several buildings ."
+    }
+]

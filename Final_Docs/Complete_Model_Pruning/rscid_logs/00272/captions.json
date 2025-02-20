@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a long bridge on a river with two baseball fields on one side .",
+        "Pruned_Predicted": "a bridge is on a river with several pieces of meadows on two sides of it .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and several buildings ."
+    }
+]

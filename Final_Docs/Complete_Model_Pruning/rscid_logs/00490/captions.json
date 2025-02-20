@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two planes in different sizes are parked on an airport .",
+        "Pruned_Predicted": "two planes are parked at an airport .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

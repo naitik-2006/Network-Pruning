@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the color of the river across the forest region is black green .",
+        "Pruned_Predicted": "many green trees are found on both sides of a curved black river .",
+        "Unpruned_Predicted": "many green trees form a piece of forest ."
+    }
+]

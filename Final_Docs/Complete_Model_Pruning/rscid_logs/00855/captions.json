@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> seven white <UNK> are near a road .",
+        "Pruned_Predicted": "there are only a few <UNK> on the northwest land .",
+        "Unpruned_Predicted": "many storage tanks are surrounded by bareland ."
+    }
+]

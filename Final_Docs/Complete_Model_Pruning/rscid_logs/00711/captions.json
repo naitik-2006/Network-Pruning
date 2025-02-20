@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> huge trees cast a huge shadow over these two tennis courts .",
+        "Pruned_Predicted": "two tennis courts are next to a crossroads .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    },
+    {
+        "Expected": "<SOS> two tennis courts are next to a road .",
+        "Pruned_Predicted": "two tennis courts are next to a crossroads .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    }
+]

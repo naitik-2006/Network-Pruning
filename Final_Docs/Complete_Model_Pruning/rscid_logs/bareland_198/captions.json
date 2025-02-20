@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a blue building is near a piece of irregular khaki bareland .",
+        "Pruned_Predicted": "it 's a piece of irregular caki stripping .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> the <UNK> ruts form into a triangle .",
+        "Pruned_Predicted": "it 's a piece of irregular caki stripping .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

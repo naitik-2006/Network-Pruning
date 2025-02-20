@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are many storage tanks in the plant and planted many trees and vegetation .",
+        "Pruned_Predicted": "there are many storage tanks in front of the orange <UNK> .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot ."
+    },
+    {
+        "Expected": "<SOS> there 's a big lake in front of the huge factory .",
+        "Pruned_Predicted": "there are many storage tanks in front of the orange <UNK> .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot ."
+    }
+]

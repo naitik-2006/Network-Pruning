@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some red buildings are surrounded by green trees in a resort area .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school with a baseball field .",
+        "Unpruned_Predicted": "many green buildings and trees are in an average residential area ."
+    },
+    {
+        "Expected": "<SOS> houses in the <UNK> have red roofs located on the lawns and in the forests .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school with a baseball field .",
+        "Unpruned_Predicted": "many green buildings and trees are in an average residential area ."
+    }
+]

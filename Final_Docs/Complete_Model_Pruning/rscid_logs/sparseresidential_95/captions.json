@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> <UNK> with sparse around the house .",
+        "Pruned_Predicted": "a building with a swimming pool is surrounded by some green trees and meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a medium residential area ."
+    },
+    {
+        "Expected": "<SOS> many green trees are around a building near a road with a swimming pool .",
+        "Pruned_Predicted": "a building with a swimming pool is surrounded by some green trees and meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a medium residential area ."
+    }
+]

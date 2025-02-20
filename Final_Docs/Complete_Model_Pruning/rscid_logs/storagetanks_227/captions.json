@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> these stained storage tanks are linked with pipes here .",
+        "Pruned_Predicted": "there are eight cylindrical buildings in the image .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

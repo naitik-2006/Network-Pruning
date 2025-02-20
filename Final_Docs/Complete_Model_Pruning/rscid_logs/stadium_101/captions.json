@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a football field is near a road .",
+        "Pruned_Predicted": "a parking lot with many cars is near a large stadium .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> a football field is near a road .",
+        "Pruned_Predicted": "a parking lot with many cars is near a large stadium .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> their size is different , the color is also different .",
+        "Pruned_Predicted": "several storage tanks are near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

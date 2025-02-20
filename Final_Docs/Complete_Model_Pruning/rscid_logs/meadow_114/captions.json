@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two double lines in side and some long lines <UNK> to it .",
+        "Pruned_Predicted": "a football field is near several green trees .",
+        "Unpruned_Predicted": "a road is in a piece of green meadow ."
+    },
+    {
+        "Expected": "<SOS> a meadow with some sparse lines and spring green grass in it .",
+        "Pruned_Predicted": "a football field is near several green trees .",
+        "Unpruned_Predicted": "a road is in a piece of green meadow ."
+    }
+]

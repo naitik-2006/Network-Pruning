@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many green trees are near a large white building .",
+        "Pruned_Predicted": "a white building is surrounded by some green trees .",
+        "Unpruned_Predicted": "a white circle center building is near several buildings and some green trees ."
+    },
+    {
+        "Expected": "<SOS> many green trees are close to a large white building .",
+        "Pruned_Predicted": "a white building is surrounded by some green trees .",
+        "Unpruned_Predicted": "a white circle center building is near several buildings and some green trees ."
+    }
+]

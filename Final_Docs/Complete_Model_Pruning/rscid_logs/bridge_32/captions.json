@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many cars are on a bridge over a river near a road with cars .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side .",
+        "Unpruned_Predicted": "a bridge is on a river with several buildings on one side of it ."
+    },
+    {
+        "Expected": "<SOS> a bridge connects the two sides of the river .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side .",
+        "Unpruned_Predicted": "a bridge is on a river with several buildings on one side of it ."
+    }
+]

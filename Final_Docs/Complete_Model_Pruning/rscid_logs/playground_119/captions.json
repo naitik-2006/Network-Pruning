@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the dark green football field is located next to crowded villas and a row of trees .",
+        "Pruned_Predicted": "a stadium is between two parallel roads with cars on it and several green trees .",
+        "Unpruned_Predicted": "a building with a swimming pool is surrounded by many green trees and meadows ."
+    }
+]

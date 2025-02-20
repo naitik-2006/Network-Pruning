@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a large piece of green ocean is near a beach .",
+        "Pruned_Predicted": "white waves in green ocean is located near yellow beach and green meadow .",
+        "Unpruned_Predicted": "a piece of yellow beach is near a piece of green ocean ."
+    },
+    {
+        "Expected": "<SOS> a large piece of green ocean is near a beach .",
+        "Pruned_Predicted": "white waves in green ocean is located near yellow beach and green meadow .",
+        "Unpruned_Predicted": "a piece of yellow beach is near a piece of green ocean ."
+    }
+]

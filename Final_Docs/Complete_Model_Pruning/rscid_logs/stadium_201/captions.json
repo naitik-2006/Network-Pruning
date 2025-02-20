@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this is a majestic round stadium with a large white roof casting huge shadow on its soccer field .",
+        "Pruned_Predicted": "a round stage is near a road .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    },
+    {
+        "Expected": "<SOS> we can see a white elliptical stadium near a road and a building with a white dome .",
+        "Pruned_Predicted": "a round stage is near a road .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    }
+]

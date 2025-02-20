@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the yellow <UNK> lands are around a pond almost in the shape of a heart .",
+        "Pruned_Predicted": "a road with cars is near a rectangular lake .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    }
+]

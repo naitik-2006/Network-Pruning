@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a large port with several boats is near many buildings and green plants .",
+        "Pruned_Predicted": "some boats are in a port near many buildings and green trees .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    }
+]

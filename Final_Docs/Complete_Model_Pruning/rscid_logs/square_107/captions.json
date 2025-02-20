@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the rectangular square is made up of four circles and an oval , integrated with some plants .",
+        "Pruned_Predicted": "many green trees are around a square square .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    }
+]

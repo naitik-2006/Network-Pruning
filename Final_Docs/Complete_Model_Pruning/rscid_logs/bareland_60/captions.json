@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the residual land has a nebulous red and yellow pattern .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> there is a vast tract of huge bare rock hills surrounded by <UNK> soil .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

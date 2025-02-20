@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a pond with a step - by - step edge of <UNK> and a curved edge in the <UNK> .",
+        "Pruned_Predicted": "a road with cars is near a piece of bareland .",
+        "Unpruned_Predicted": "a piece of yellow beach is near an ocean with white waves ."
+    }
+]

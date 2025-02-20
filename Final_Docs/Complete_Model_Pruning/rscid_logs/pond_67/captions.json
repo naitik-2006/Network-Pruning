@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> on the ground with a circular big pond .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a park with a pond ."
+    },
+    {
+        "Expected": "<SOS> some sparse green trees are near a pond .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a park with a pond ."
+    },
+    {
+        "Expected": "<SOS> there are some trees beside the pond .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a park with a pond ."
+    }
+]

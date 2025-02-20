@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> yellow and white neatly placed in the oil storage tank on the ship .",
+        "Pruned_Predicted": "many different sizes of storage tanks on the road in a piece of land .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

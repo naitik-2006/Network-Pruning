@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> smart buildings with red roofs and rows of palm trees surround this swimming pool in this resort .",
+        "Pruned_Predicted": "a red building with a swimming pool is near a road with some cars in a resort .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    }
+]

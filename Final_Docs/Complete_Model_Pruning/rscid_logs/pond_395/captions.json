@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> there 's a pond in the bare land .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are around an irregular pond ."
+    },
+    {
+        "Expected": "<SOS> some trees were planted around the pond .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are around an irregular pond ."
+    },
+    {
+        "Expected": "<SOS> there 's a pond on the bare earth .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are around an irregular pond ."
+    }
+]

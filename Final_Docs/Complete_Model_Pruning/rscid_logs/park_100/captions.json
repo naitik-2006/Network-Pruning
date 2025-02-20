@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the park is located in the open space between downtown areas , including lush plants , playgrounds and lakes .",
+        "Pruned_Predicted": "many buildings and some green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

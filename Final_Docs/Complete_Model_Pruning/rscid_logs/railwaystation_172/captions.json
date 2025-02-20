@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the roads are grey , the grass is green and the buildings are colorful .",
+        "Pruned_Predicted": "many buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> there are some roads and some buildings with some grass .",
+        "Pruned_Predicted": "many buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

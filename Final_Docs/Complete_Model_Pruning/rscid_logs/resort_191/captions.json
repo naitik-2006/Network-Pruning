@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the station near a road is divided into several parts with different buildings and facilities by tree lines .",
+        "Pruned_Predicted": "many buildings and some green trees are in a resort with a pond .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> some buildings and many green trees are in a resort with several ponds .",
+        "Pruned_Predicted": "many buildings and some green trees are in a resort with a pond .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the <UNK> stretches <UNK> the river with dark green water .",
+        "Pruned_Predicted": "a bridge is on a river with some green trees on two sides of it .",
+        "Unpruned_Predicted": "many boats are in a port near some buildings and green trees ."
+    }
+]

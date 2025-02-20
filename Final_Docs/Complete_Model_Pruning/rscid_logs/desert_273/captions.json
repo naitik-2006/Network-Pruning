@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many ripples like fish scales are in a piece of gray desert .",
+        "Pruned_Predicted": "a piece of sand in the desert is like fish scale .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

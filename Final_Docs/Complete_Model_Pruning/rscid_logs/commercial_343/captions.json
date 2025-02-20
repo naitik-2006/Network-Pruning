@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a large number of green plants are planted on both sides of the road .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

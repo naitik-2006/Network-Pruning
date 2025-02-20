@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a circle parterre is in the centre of the radial square which contains some grey and white blocks .",
+        "Pruned_Predicted": "a basketball field is surrounded by many buildings .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

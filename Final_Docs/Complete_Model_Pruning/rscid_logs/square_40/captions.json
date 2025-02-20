@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the park looking like a <UNK> is combined by one piece of square land and a piece of a a <UNK> land .",
+        "Pruned_Predicted": "many green trees and some buildings are around a square .",
+        "Unpruned_Predicted": "many green trees and buildings are in a dense residential area ."
+    }
+]

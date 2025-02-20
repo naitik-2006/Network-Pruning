@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> three tennis courts are surrounded by buildings and green plants .",
+        "Pruned_Predicted": "a basketball court is next to the center .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> three tennis courts are surrounded by buildings and green plants .",
+        "Pruned_Predicted": "a basketball court is next to the center .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

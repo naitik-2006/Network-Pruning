@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the main colour of the courts near the football field is orange , which is quite eye - <UNK> .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

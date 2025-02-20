@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there 's a parking lot next to the road .",
+        "Pruned_Predicted": "many cars are parked in a parking lot .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    }
+]

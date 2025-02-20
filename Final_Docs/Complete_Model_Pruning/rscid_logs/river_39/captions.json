@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the river flows through a tall mountain .",
+        "Pruned_Predicted": "many buildings are around a park with a large pond with an island with many green trees .",
+        "Unpruned_Predicted": "many buildings are around a park with many green trees and a pond ."
+    },
+    {
+        "Expected": "<SOS> the river flows through a high mountain .",
+        "Pruned_Predicted": "many buildings are around a park with a large pond with an island with many green trees .",
+        "Unpruned_Predicted": "many buildings are around a park with many green trees and a pond ."
+    }
+]

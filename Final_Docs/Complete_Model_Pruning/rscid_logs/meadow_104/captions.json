@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> several green trees are near a large piece of green meadow .",
+        "Pruned_Predicted": "a row of green trees is near a piece of green meadow .",
+        "Unpruned_Predicted": "a small road is in a piece of green meadow ."
+    },
+    {
+        "Expected": "<SOS> several green trees are close to a large piece of green lawn .",
+        "Pruned_Predicted": "a row of green trees is near a piece of green meadow .",
+        "Unpruned_Predicted": "a small road is in a piece of green meadow ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> on both sides of the river there is a lot of bare land .",
+        "Pruned_Predicted": "many green plants and bare land are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

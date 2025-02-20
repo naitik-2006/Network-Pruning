@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some white snow covers part of green mountains .",
+        "Pruned_Predicted": "many white snows cover most part of khaki mountain .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

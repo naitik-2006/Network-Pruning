@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the plant was built by the sea .",
+        "Pruned_Predicted": "a large number of different sizes of storagetanks on the road in a piece of land .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> the factory was built by the sea .",
+        "Pruned_Predicted": "a large number of different sizes of storagetanks on the road in a piece of land .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

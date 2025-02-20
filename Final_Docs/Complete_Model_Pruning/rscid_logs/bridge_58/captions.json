@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it is a radial bridge connecting <UNK> banks of the river and the island .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on two sides of it .",
+        "Unpruned_Predicted": "many ships are in a port near many buildings ."
+    },
+    {
+        "Expected": "<SOS> the bridge like a boomerang is across the ring with a eyot .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on two sides of it .",
+        "Unpruned_Predicted": "many ships are in a port near many buildings ."
+    }
+]

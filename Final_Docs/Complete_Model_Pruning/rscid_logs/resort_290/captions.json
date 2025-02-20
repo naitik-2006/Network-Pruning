@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> we can see a seaside resort in which is a ploygon building with two swimming pools and sports ground among the lawns trees and paths .",
+        "Pruned_Predicted": "many green trees and several buildings are in a resort .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    },
+    {
+        "Expected": "<SOS> we can see a resort in which is a ploygon building with two swimming pools and sports field among lawns trees and paths .",
+        "Pruned_Predicted": "many green trees and several buildings are in a resort .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    }
+]

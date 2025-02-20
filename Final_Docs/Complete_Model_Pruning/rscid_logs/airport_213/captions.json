@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the irregular shaped passenger termial building sits alongside paralleled runways .",
+        "Pruned_Predicted": "a square with a circle white top is located at the corner of a flyover .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

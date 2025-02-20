@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the saddle - shaped river is surrounded by dense trees .",
+        "Pruned_Predicted": "the turbid river is near a clear river with green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> four white <UNK> objects are in the middle of the pasture .",
+        "Pruned_Predicted": "a road is near a piece of green meadow .",
+        "Unpruned_Predicted": "a road is in a piece of meadow ."
+    }
+]

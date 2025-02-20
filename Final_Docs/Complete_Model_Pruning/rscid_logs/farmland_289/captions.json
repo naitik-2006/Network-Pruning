@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a small wild path is found in a piece of green agricultural land .",
+        "Pruned_Predicted": "a football field is near a building .",
+        "Unpruned_Predicted": "a small tree is on green grassland ."
+    }
+]

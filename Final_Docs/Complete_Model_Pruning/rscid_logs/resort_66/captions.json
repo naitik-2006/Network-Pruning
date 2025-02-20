@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there is a zigzag building with a swimming pool in the resort   next to which is a parking lot and two tennis fields .",
+        "Pruned_Predicted": "several buildings with swimming pool and some green trees are in a resort .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a resort ."
+    },
+    {
+        "Expected": "<SOS> we can see that a unique zigzag building   a swimming pool a parking lot and two tennis fields are in the resort .",
+        "Pruned_Predicted": "several buildings with swimming pool and some green trees are in a resort .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a resort ."
+    }
+]

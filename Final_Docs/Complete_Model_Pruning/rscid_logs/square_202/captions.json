@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> the public <UNK> ground is white and the trees with grass are green .",
+        "Pruned_Predicted": "a square with some green trees is near a road .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> some sparse green trees are around an oval square .",
+        "Pruned_Predicted": "a square with some green trees is near a road .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> it 's an oval public square with a few trees .",
+        "Pruned_Predicted": "a square with some green trees is near a road .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

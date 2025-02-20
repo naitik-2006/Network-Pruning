@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> houses with swimming pools are built on the lawns   which are linked by curved roads .",
+        "Pruned_Predicted": "many buildings and green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

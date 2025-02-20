@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> on either side of the road is a large residential area .",
+        "Pruned_Predicted": "many red buildings and some green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> on both sides of the road there is a large residential area .",
+        "Pruned_Predicted": "many red buildings and some green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

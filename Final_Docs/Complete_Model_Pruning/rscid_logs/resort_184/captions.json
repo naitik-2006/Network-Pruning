@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings and green trees are in a resort with a pond and three basketball fields .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> the houses are located in order in the station along the winding road .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

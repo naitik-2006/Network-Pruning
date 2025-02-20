@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> several workshops can be seen with blue roofs alongside rows of trees and a straight wide road .",
+        "Pruned_Predicted": "many buildings and some green trees are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

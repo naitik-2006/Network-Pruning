@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are many factories on both sides of the road .",
+        "Pruned_Predicted": "the water to the beach against big white waves .",
+        "Unpruned_Predicted": "the white waves are between the yellow beach and the green ocean ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the farm is divided into different parts of the color .",
+        "Pruned_Predicted": "a baseball field is surrounded by many green plants and a road .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> sea water <UNK> against the beach with plants <UNK> the spray of the sea .",
+        "Pruned_Predicted": "white waves in green ocean is near yellow beach and green meadow .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> white waves are between yellow beach and green ocean .",
+        "Pruned_Predicted": "white waves in green ocean is near yellow beach and green meadow .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

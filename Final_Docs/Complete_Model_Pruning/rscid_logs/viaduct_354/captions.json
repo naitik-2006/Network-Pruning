@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> oasis are in the middle of the land , cars drive on the road .",
+        "Pruned_Predicted": "many green trees and several buildings are near a viaduct .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a park with a pond ."
+    }
+]

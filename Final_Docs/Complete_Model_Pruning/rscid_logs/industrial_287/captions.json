@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> several buildings are in two sides of a river .",
+        "Pruned_Predicted": "a road is near a square square center building .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> several buildings are on two sides of a river .",
+        "Pruned_Predicted": "a road is near a square square center building .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

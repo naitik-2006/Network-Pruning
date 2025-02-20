@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> we can see a planting farmland separated by straight roads .",
+        "Pruned_Predicted": "a road is in a piece of brown agricultural land .",
+        "Unpruned_Predicted": "it 's a piece of naked dirt ."
+    }
+]

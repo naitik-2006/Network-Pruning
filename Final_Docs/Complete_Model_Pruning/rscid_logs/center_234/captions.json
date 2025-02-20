@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> an oval silver gray center building surrounded by green trees is near a crossroads .",
+        "Pruned_Predicted": "a white oval building is connected to a rectangular building .",
+        "Unpruned_Predicted": "many green trees are around a white oval building ."
+    }
+]

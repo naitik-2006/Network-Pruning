@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a lot of cars parked around the square .",
+        "Pruned_Predicted": "many planes are around a long building .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> it 's a circular square .",
+        "Pruned_Predicted": "many planes are around a long building .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> residential buildings on both sides of the road are well disposed .",
+        "Pruned_Predicted": "many green buildings and trees are located in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> the road extending in all directions , automobile running in above is dusty , barren and desolate .",
+        "Pruned_Predicted": "many green buildings and trees are located in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

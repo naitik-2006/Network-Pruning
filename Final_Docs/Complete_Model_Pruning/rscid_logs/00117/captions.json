@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> six tanks surround by green meadows are in two rows .",
+        "Pruned_Predicted": "four large storage tanks are around with green meadows .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

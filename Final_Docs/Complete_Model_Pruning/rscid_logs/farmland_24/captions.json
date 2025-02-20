@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many pieces of green farmlands are together .",
+        "Pruned_Predicted": "many pieces of farmlands are near a viaduct .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> many pieces of green farmland are together .",
+        "Pruned_Predicted": "many pieces of farmlands are near a viaduct .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

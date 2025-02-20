@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a piece of land <UNK> .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    },
+    {
+        "Expected": "<SOS> no living things on the land .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    },
+    {
+        "Expected": "<SOS> a piece of messy dirt .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    }
+]

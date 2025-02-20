@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the square place is a bareland while some trees are scattered on it .",
+        "Pruned_Predicted": "some green trees and several buildings are located near a bare piece of land .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

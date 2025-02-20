@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many pieces of farmlands are around an irregular pond .",
+        "Pruned_Predicted": "several pieces of farmlands are together .",
+        "Unpruned_Predicted": "many green trees and several buildings are in two sides of a railway station ."
+    },
+    {
+        "Expected": "<SOS> many agricultural land is around an irregular pond .",
+        "Pruned_Predicted": "several pieces of farmlands are together .",
+        "Unpruned_Predicted": "many green trees and several buildings are in two sides of a railway station ."
+    }
+]

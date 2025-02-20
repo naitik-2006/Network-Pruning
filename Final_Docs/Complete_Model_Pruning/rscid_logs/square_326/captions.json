@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the square with some <UNK> and lawns is in a rectangular region <UNK> is in the middle of the forest .",
+        "Pruned_Predicted": "many buildings are around a park with many green trees and a pond .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> the square with some <UNK> and lawns is in a rectangle region <UNK> is in the middle of the forest .",
+        "Pruned_Predicted": "many buildings are around a park with many green trees and a pond .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

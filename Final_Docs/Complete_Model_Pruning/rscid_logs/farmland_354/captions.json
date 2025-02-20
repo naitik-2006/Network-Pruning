@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a lot of green farmland on the land .",
+        "Pruned_Predicted": "there is a lot of green agricultural land on earth .",
+        "Unpruned_Predicted": "a large piece of beach is between an ocean with white waves and green trees ."
+    }
+]

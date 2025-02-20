@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a grey oval center is located near several green trees and meadows .",
+        "Pruned_Predicted": "a large building is near a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

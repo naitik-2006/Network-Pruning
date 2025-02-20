@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it is a bustling industrial area separated by roads .",
+        "Pruned_Predicted": "a large building is near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> here is a factory including a parking lot and a sports ground .",
+        "Pruned_Predicted": "a large building is near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

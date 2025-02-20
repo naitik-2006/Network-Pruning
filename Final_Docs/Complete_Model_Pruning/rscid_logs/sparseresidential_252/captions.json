@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> these trees are dark green with light green .",
+        "Pruned_Predicted": "many green trees are around a building .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    }
+]

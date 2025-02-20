@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> three white jars <UNK> in fan - shaped area .",
+        "Pruned_Predicted": "four large storage tanks are around with green meadows .",
+        "Unpruned_Predicted": "it 's a piece of naked dirt ."
+    }
+]

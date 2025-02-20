@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a long road passes through the residential area .",
+        "Pruned_Predicted": "some buildings and green meadows are in a medium residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many residential houses are on the lawn , like the right line , like the ring .",
+        "Pruned_Predicted": "some buildings and green meadows are in a medium residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

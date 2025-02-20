@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a road above the track surrounded by a dense residential area .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many undulations are in a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> many buildings and a river are located on both sides of a train station .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many undulations are in a piece of yellow desert ."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Expected": "<SOS> there are many grass around the pond .",
+        "Pruned_Predicted": "many green trees are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    },
+    {
+        "Expected": "<SOS> there 's a lot of grass around the pond .",
+        "Pruned_Predicted": "many green trees are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    },
+    {
+        "Expected": "<SOS> there 's a pond in the middle of the earth .",
+        "Pruned_Predicted": "many green trees are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    },
+    {
+        "Expected": "<SOS> there is a pond in the middle of the land .",
+        "Pruned_Predicted": "many green trees are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    }
+]

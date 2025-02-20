@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> the ease of the road are surrounded by lots of buildings .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many cars ran on the road , vehicles parked beside the road .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many buildings and green trees are near a viaduct with three circles .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

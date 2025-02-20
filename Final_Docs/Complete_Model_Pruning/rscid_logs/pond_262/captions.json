@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a road with cars and a large piece of green meadow are in two sides of an irregular green pond surrounded by some trees .",
+        "Pruned_Predicted": "a road is in a piece of green meadow .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a park with a pond ."
+    },
+    {
+        "Expected": "<SOS> a road with cars and a large piece of green meadow are located on two sides of an irregular green pond surrounded by some trees .",
+        "Pruned_Predicted": "a road is in a piece of green meadow .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a park with a pond ."
+    }
+]

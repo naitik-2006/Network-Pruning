@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some trees have been planted around the bare earth .",
+        "Pruned_Predicted": "a small wild road is located through a piece of agricultural land .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

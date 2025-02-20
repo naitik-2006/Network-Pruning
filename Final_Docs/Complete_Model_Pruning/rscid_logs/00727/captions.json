@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two planes and a row of small planes are parked on an airport .",
+        "Pruned_Predicted": "three planes are parked on an airport .",
+        "Unpruned_Predicted": "a bridge is on a river with several buildings on one side of it ."
+    },
+    {
+        "Expected": "<SOS> many small planes are in a line with another two planes in a side .",
+        "Pruned_Predicted": "three planes are parked on an airport .",
+        "Unpruned_Predicted": "a bridge is on a river with several buildings on one side of it ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a piece of neat industrial park building is built on the ground .",
+        "Pruned_Predicted": "a large building is near a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

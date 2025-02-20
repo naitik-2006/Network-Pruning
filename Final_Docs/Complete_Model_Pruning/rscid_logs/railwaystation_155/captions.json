@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> different green buildings and trees are located on two sides of a railway station .",
+        "Pruned_Predicted": "some buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> several buildings and green trees are located on both sides of a station .",
+        "Pruned_Predicted": "some buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> several buildings and green trees are on two sides of a railway station .",
+        "Pruned_Predicted": "some buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

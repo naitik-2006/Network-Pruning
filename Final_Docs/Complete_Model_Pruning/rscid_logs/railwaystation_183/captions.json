@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this railway station has plenty of tracks and most of them are occupied with trains .",
+        "Pruned_Predicted": "many buildings are located on two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> the long trains with black vans stop <UNK> in the rails in the shape of a pin .",
+        "Pruned_Predicted": "many buildings are located on two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

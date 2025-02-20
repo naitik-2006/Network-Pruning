@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> this residential area where roofs are mostly black is separated by curved roads .",
+        "Pruned_Predicted": "many buildings are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

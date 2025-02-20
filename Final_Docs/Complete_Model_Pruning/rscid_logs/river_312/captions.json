@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> several agricultural lands are located on two sides of the river .",
+        "Pruned_Predicted": "a bridge is on a river with many boats in it .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    }
+]

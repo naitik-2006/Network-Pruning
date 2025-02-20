@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this straight bridge is <UNK> to the roads of the two sides .",
+        "Pruned_Predicted": "a bridge is on a black river with several pieces of farmlands .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> a long bridge is on a wide river with two baseball fields on one side .",
+        "Pruned_Predicted": "a bridge is on a black river with several pieces of farmlands .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

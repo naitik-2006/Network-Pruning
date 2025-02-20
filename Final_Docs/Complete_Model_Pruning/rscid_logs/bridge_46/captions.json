@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many <UNK> are being across the bridge over the broad river .",
+        "Pruned_Predicted": "a bridge is over a river with many green plants on two sides of it .",
+        "Unpruned_Predicted": "a small wild road is in a piece of agricultural land ."
+    },
+    {
+        "Expected": "<SOS> several ships is <UNK> the wide river with a bustling bridge over it .",
+        "Pruned_Predicted": "a bridge is over a river with many green plants on two sides of it .",
+        "Unpruned_Predicted": "a small wild road is in a piece of agricultural land ."
+    }
+]

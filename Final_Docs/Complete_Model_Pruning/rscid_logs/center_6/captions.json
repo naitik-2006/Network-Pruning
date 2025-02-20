@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the round white building and some square buildings are surrounded by streets and red roof houses as well as cars parked around .",
+        "Pruned_Predicted": "a large building with a swimming pool and a tennis court is close to a beach in a resort .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    }
+]

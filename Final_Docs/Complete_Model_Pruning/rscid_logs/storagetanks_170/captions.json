@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> ten cylindrical buildings are white or grey .",
+        "Pruned_Predicted": "many storage tanks are near a large piece of meadow .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

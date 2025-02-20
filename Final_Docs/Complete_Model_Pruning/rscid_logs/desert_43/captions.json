@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there 's only sand in the desert .",
+        "Pruned_Predicted": "it 's a big piece of yellow desert .",
+        "Unpruned_Predicted": "it is a large piece of bareland ."
+    }
+]

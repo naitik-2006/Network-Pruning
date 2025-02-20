@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are some strong rocks near the beach .",
+        "Pruned_Predicted": "the waves are coming to the shore .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    },
+    {
+        "Expected": "<SOS> the vast sea is <UNK> hard rock .",
+        "Pruned_Predicted": "the waves are coming to the shore .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    }
+]

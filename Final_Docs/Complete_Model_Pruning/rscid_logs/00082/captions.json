@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the playgound is next to two high - rise buildings and a busy street .",
+        "Pruned_Predicted": "many buildings are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

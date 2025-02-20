@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> four <UNK> tennis fields locate in the center of many white houses .",
+        "Pruned_Predicted": "a playground with three basketball fields in it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

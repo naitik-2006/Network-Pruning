@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the main building of the church is light blue , with a variety of other buildings surrounded .",
+        "Pruned_Predicted": "a church is near a road .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many buildings are around a church .",
+        "Pruned_Predicted": "a church is near a road .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

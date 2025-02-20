@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the square next to a tract of big trees is close to some playgrounds .",
+        "Pruned_Predicted": "many green trees are in a square .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> the square with some complex path and groves is between the forest and some playgrounds .",
+        "Pruned_Predicted": "many green trees are in a square .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

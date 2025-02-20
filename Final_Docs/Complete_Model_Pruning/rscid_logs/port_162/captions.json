@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> several boats are in a port near many nueland .",
+        "Pruned_Predicted": "several boats are in a port near many bareland .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several buildings on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> several ships are in a port near many bareland .",
+        "Pruned_Predicted": "several boats are in a port near many bareland .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several buildings on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> several boats are in a port near many bareland .",
+        "Pruned_Predicted": "several boats are in a port near many bareland .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several buildings on two sides of it ."
+    }
+]

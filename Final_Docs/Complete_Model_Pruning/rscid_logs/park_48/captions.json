@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this park with a large pond in it surrounded by dense residential area .",
+        "Pruned_Predicted": "many buildings are around a park with a pond and many green trees .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school with a playground and a baseball field ."
+    },
+    {
+        "Expected": "<SOS> the lake cover the most area of the lake .",
+        "Pruned_Predicted": "many buildings are around a park with a pond and many green trees .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school with a playground and a baseball field ."
+    }
+]

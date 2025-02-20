@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the pond with green bank is next to villas with gray roofs and a road with a car .",
+        "Pruned_Predicted": "some green trees and meadows are around an irregular pond .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several buildings on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> beside two houses is a curved ploygon pond with a fountain at the corner of two roads   and a curved path can be seen on the bank .",
+        "Pruned_Predicted": "some green trees and meadows are around an irregular pond .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several buildings on two sides of it ."
+    }
+]

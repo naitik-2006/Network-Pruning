@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> several workshop buildings with blue roofs are surrounded by a straight road and bald land .",
+        "Pruned_Predicted": "some buildings and bare land are located in an industrial area .",
+        "Unpruned_Predicted": "many green trees are around a white oval building ."
+    }
+]

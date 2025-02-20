@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a twisted river flows through a large area .",
+        "Pruned_Predicted": "many green plants and bare land are found on both sides of a river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    },
+    {
+        "Expected": "<SOS> a ribbon green pond and an urban area are located on both sides of a dark green river .",
+        "Pruned_Predicted": "many green plants and bare land are found on both sides of a river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    },
+    {
+        "Expected": "<SOS> on either side of the river are different regions .",
+        "Pruned_Predicted": "many green plants and bare land are found on both sides of a river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

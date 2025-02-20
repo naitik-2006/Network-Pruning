@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> desolate in the desert .",
+        "Pruned_Predicted": "it 's a piece of yellow bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> only a little <UNK> of green plants , the land <UNK> the fold .",
+        "Pruned_Predicted": "it 's a piece of yellow bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

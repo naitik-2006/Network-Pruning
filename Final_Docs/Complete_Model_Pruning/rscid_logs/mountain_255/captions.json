@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it 's a piece of irregular mountain caki .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> it 's an irregular piece of mountain caki .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

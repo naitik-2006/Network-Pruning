@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the styles of the buildings in the medium residential region is similar .",
+        "Pruned_Predicted": "many buildings and green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    }
+]

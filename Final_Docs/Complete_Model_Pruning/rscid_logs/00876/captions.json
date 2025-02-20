@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> several highways and railways make the traffic convenient .",
+        "Pruned_Predicted": "a bridge is on a river with many buildings on one side .",
+        "Unpruned_Predicted": "many buildings and green trees are in a medium residential area ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the water to the beach against big white waves .",
+        "Pruned_Predicted": "a beach is near a piece of green ocean with a few boats .",
+        "Unpruned_Predicted": "a piece of yellow beach is near a piece of green ocean ."
+    },
+    {
+        "Expected": "<SOS> the sea beats the white spray on the beach .",
+        "Pruned_Predicted": "a beach is near a piece of green ocean with a few boats .",
+        "Unpruned_Predicted": "a piece of yellow beach is near a piece of green ocean ."
+    }
+]

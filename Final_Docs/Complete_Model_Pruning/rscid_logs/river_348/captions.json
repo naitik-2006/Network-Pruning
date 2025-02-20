@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some agricultural land and urban areas are located on both sides of a curved river .",
+        "Pruned_Predicted": "many green plants and bare land are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> on either side of the river are different regions .",
+        "Pruned_Predicted": "many green plants and bare land are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

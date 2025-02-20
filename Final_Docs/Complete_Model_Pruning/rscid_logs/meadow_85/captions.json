@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> numerous plants growing here , forming a dense forest .",
+        "Pruned_Predicted": "some green trees are near a piece of green meadow .",
+        "Unpruned_Predicted": "it is a large piece of green mountain ."
+    },
+    {
+        "Expected": "<SOS> prairie has a <UNK> trees .",
+        "Pruned_Predicted": "some green trees are near a piece of green meadow .",
+        "Unpruned_Predicted": "it is a large piece of green mountain ."
+    }
+]

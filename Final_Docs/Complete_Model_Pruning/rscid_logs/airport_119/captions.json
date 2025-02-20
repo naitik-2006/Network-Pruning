@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a long arc dark gray road in side while with some dark gray ground besides .",
+        "Pruned_Predicted": "many planes are in an airport .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    }
+]

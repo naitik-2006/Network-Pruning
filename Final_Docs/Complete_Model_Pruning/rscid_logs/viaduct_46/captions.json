@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a diamond - shaped circulation system combined with an eight - figure viaduct .",
+        "Pruned_Predicted": "many buildings and green trees are near a viaduct .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki mountain ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it is a circular square , surrounded by four roads to <UNK> the directions .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    },
+    {
+        "Expected": "<SOS> four large buildings are around a square .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the ranch is very wide and green .",
+        "Pruned_Predicted": "some green trees are around a piece of green meadow .",
+        "Unpruned_Predicted": "a road is near a piece of green meadow ."
+    },
+    {
+        "Expected": "<SOS> there are some tall trees growing in the vast pasture .",
+        "Pruned_Predicted": "some green trees are around a piece of green meadow .",
+        "Unpruned_Predicted": "a road is near a piece of green meadow ."
+    }
+]

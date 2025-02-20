@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two buildings with swimming pools and a pond are near a beach .",
+        "Pruned_Predicted": "a large building with a swimming pool and a tennis court is close to a beach in a resort .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    }
+]

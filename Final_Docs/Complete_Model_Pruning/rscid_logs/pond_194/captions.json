@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a square pond is surrounded by meadows .",
+        "Pruned_Predicted": "some green trees and several buildings are around a pond .",
+        "Unpruned_Predicted": "many green trees are around a pond with some bare land ."
+    },
+    {
+        "Expected": "<SOS> a square lake is surrounded by meadows .",
+        "Pruned_Predicted": "some green trees and several buildings are around a pond .",
+        "Unpruned_Predicted": "many green trees are around a pond with some bare land ."
+    }
+]

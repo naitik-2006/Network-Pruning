@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings and a large piece of lawn with different green trees are close to a complicated viaduct .",
+        "Pruned_Predicted": "many buildings and green meadows are near a complicated viaduct .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many buildings and a large piece of meadow with several green trees are near a complicated viaduct .",
+        "Pruned_Predicted": "many buildings and green meadows are near a complicated viaduct .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are two large storage tanks in front of the white building .",
+        "Pruned_Predicted": "some storage tanks are surrounded by bareland .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    },
+    {
+        "Expected": "<SOS> there are two large storage tanks in front of the white building .",
+        "Pruned_Predicted": "some storage tanks are surrounded by bareland .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    }
+]

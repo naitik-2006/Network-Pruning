@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a path passes through a piece of forest with a building in it .",
+        "Pruned_Predicted": "many green trees are around a building .",
+        "Unpruned_Predicted": "many green trees form a piece of forest ."
+    },
+    {
+        "Expected": "<SOS> a road passes through a piece of forest with a building in it .",
+        "Pruned_Predicted": "many green trees are around a building .",
+        "Unpruned_Predicted": "many green trees form a piece of forest ."
+    }
+]

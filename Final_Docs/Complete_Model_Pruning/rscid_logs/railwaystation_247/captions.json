@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the barren land is surrounded by lush trees .",
+        "Pruned_Predicted": "some buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    },
+    {
+        "Expected": "<SOS> some green trees and several buildings are near a station .",
+        "Pruned_Predicted": "some buildings are located on two sides of a train station .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    }
+]

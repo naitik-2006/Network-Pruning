@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> several small green trees are in a piece of green meadow .",
+        "Pruned_Predicted": "a road is near a piece of green meadow .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> several small green trees are in a piece of green meadow .",
+        "Pruned_Predicted": "a road is near a piece of green meadow .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> on the grass to grow the grass just <UNK> .",
+        "Pruned_Predicted": "a road is near a piece of green meadow .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

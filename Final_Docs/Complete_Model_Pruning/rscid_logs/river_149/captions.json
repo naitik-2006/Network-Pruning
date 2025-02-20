@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many agricultural lands and a pond are located on two sides of a curved river .",
+        "Pruned_Predicted": "many buildings and green trees are in two sides of a curved river .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    }
+]

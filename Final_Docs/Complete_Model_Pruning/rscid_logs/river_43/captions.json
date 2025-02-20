@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the twisty river is across the green rolling country .",
+        "Pruned_Predicted": "many green plants are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> many green trees are in two sides of curved brown river .",
+        "Pruned_Predicted": "many green plants are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

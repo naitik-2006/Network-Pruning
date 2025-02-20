@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> houses of different color from roofs are built compactly with bare lawns and trees .",
+        "Pruned_Predicted": "many green buildings and trees are located in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

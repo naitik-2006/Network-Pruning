@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a road crosses over a river in the factory with buildings of white roof   near which is a line of red roof residential buildings .",
+        "Pruned_Predicted": "a large white building is near a river with some green trees in an industrial area .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    }
+]

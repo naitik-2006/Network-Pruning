@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a lot of industrial zones along the lake .",
+        "Pruned_Predicted": "many buildings and bare land are located on both sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> many industrial areas along the lake .",
+        "Pruned_Predicted": "many buildings and bare land are located on both sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

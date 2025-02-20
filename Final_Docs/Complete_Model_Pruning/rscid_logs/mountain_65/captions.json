@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> bald stone ridges stands on those green slopes .",
+        "Pruned_Predicted": "it 's a piece of green mountain .",
+        "Unpruned_Predicted": "many green trees are near a viaduct with some cars ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two green rivers <UNK> together with a bridge spans it .",
+        "Pruned_Predicted": "many green trees and some buildings are located on both sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> some green mountains are in two sides of a green river with a branch .",
+        "Pruned_Predicted": "many green trees and some buildings are located on both sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

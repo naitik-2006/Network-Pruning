@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> four blue storage tanks sits alongside four white ones next to the bald field .",
+        "Pruned_Predicted": "some cars are parked in a parking lot near a road .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

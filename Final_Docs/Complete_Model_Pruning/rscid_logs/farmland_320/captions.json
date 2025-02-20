@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many pieces of agricultural land are together .",
+        "Pruned_Predicted": "the little farm consists of grass and crops .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> many pieces of farmlands are together .",
+        "Pruned_Predicted": "the little farm consists of grass and crops .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two pools of water are of the same color .",
+        "Pruned_Predicted": "a large pond with two islands is in a park surrounded by some trees .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> <UNK> houses are settled in this neighborhood where trees are withered and lawns are bald with a straight road passing by .",
+        "Pruned_Predicted": "some buildings and some green trees are in a medium residential area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

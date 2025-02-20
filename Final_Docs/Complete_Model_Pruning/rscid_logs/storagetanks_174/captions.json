@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> seven storage tanks are surrounded by some nueland .",
+        "Pruned_Predicted": "some storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "some storage tanks are surrounded by bareland ."
+    },
+    {
+        "Expected": "<SOS> there are only a few strips of grass on the northeast land .",
+        "Pruned_Predicted": "some storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "some storage tanks are surrounded by bareland ."
+    }
+]

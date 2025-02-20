@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many pieces of farmlands are together .",
+        "Pruned_Predicted": "a square with green meadows are near several parallel roads .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> many pieces of agricultural land are together .",
+        "Pruned_Predicted": "a square with green meadows are near several parallel roads .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

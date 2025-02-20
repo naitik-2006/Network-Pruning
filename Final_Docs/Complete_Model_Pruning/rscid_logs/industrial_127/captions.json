@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the factory consists of rows of buildings in this vast area .",
+        "Pruned_Predicted": "many buildings and bare land are located in an industrial area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    }
+]

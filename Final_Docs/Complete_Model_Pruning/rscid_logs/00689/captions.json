@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> three planes are parked next to a large building on an airport .",
+        "Pruned_Predicted": "several buildings are around a square building .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot ."
+    }
+]

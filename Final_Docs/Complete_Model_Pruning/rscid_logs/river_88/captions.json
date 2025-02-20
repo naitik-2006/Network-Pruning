@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> bareland are located on two sides of a river .",
+        "Pruned_Predicted": "many green trees and some bare lands are on two sides of a curved river .",
+        "Unpruned_Predicted": "a playground with a football pitch in it is surrounded by many green trees and several buildings ."
+    },
+    {
+        "Expected": "<SOS> some green plants are in two sides of a curved river .",
+        "Pruned_Predicted": "many green trees and some bare lands are on two sides of a curved river .",
+        "Unpruned_Predicted": "a playground with a football pitch in it is surrounded by many green trees and several buildings ."
+    },
+    {
+        "Expected": "<SOS> the bare earth is on both sides of a river .",
+        "Pruned_Predicted": "many green trees and some bare lands are on two sides of a curved river .",
+        "Unpruned_Predicted": "a playground with a football pitch in it is surrounded by many green trees and several buildings ."
+    }
+]

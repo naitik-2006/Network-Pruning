@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> we can see brown plants growing on the beach and the white sea <UNK> in the sea .",
+        "Pruned_Predicted": "a piece of ocean is near a yellow beach and some meadows .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

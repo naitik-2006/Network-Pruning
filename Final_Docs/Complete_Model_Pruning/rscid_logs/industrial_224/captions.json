@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the white square and rectangle workshops distribute on the either side of the road .",
+        "Pruned_Predicted": "many industrial buildings and some green trees are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

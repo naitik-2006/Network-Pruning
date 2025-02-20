@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the symmetrical cross distribution of the ring road and the straight roads around it are green grass and trees .",
+        "Pruned_Predicted": "many green trees are near a viaduct .",
+        "Unpruned_Predicted": "many green trees are near a viaduct with some cars ."
+    }
+]

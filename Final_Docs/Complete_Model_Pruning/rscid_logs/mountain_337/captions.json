@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are many rivers flowing into the valley .",
+        "Pruned_Predicted": "it 's a piece of green mountain .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    },
+    {
+        "Expected": "<SOS> the bare earth was covered with green plants .",
+        "Pruned_Predicted": "it 's a piece of green mountain .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    }
+]

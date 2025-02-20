@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the commercial which has many buildings in different styles is separated by some roads .",
+        "Pruned_Predicted": "a church is near a road with many buildings .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> advertising that has many buildings in different styles is separated by some roads .",
+        "Pruned_Predicted": "a church is near a road with many buildings .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    }
+]

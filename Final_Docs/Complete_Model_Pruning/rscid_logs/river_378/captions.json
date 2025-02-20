@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a river flows through agricultural land .",
+        "Pruned_Predicted": "many pieces of farmlands and several buildings are near a viaduct .",
+        "Unpruned_Predicted": "many green trees are found on two sides of a curved river ."
+    }
+]

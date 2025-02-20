@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the strip shaped airport is next to runways and viaducts .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> this airport has a long narrow building surrounded by star like buildings .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

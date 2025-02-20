@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a square church owning two towers is located between two <UNK> shaped buildings with roads and streets around .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

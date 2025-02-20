@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a lot of bare land around the lake .",
+        "Pruned_Predicted": "a pond with a narrow circular white bank is sandwiched between a forest and a grey house .",
+        "Unpruned_Predicted": "many boats are in a port near some buildings ."
+    }
+]

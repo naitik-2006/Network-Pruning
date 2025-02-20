@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many vehicles on the road in the the stream never stops flowing .",
+        "Pruned_Predicted": "many green trees are in a square .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> trees in this square are withered besides a bustling road .",
+        "Pruned_Predicted": "a square is between two parallel roads .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

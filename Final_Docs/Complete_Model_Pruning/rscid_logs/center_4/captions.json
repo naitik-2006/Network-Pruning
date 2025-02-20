@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> behind the white building is a brown field .",
+        "Pruned_Predicted": "a white building is near a road with several cars .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several buildings ."
+    },
+    {
+        "Expected": "<SOS> behind the white building is a brown field .",
+        "Pruned_Predicted": "a white building is near a road with several cars .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several buildings ."
+    }
+]

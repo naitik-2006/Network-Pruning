@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> this is a wood .",
+        "Pruned_Predicted": "many pieces of yellow farmlands are orderly together .",
+        "Unpruned_Predicted": "many buildings are located on two sides of a railway station ."
+    }
+]

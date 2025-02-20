@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> this <UNK> is made up of a lot of spherical storage tank .",
+        "Pruned_Predicted": "a large building is near a viaduct .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    }
+]

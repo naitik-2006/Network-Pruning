@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> several straight railways sits behind the main building .",
+        "Pruned_Predicted": "some buildings and green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> some green trees and buildings are near a railway station .",
+        "Pruned_Predicted": "some buildings and green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> some green trees and buildings are near a train station .",
+        "Pruned_Predicted": "some buildings and green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

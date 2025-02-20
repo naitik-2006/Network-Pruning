@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a big jar with white paint and another small blue jar .",
+        "Pruned_Predicted": "two big jars with white paint and a road beside .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    },
+    {
+        "Expected": "<SOS> two large storage tanks are around with green meadows .",
+        "Pruned_Predicted": "two big jars with white paint and a road beside .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    }
+]

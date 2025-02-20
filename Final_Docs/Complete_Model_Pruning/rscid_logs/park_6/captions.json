@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the park which contains a lake and forest is beside the neighborhood .",
+        "Pruned_Predicted": "many buildings are close to a park with many green trees and a pond .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

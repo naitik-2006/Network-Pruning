@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a grey court and nearby many houses with white paint .",
+        "Pruned_Predicted": "a small court and many short trees surrounded .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

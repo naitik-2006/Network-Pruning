@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a large number of green plants are planted near the plant .",
+        "Pruned_Predicted": "a large white building is near a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> a large number of white buildings were built in the factory .",
+        "Pruned_Predicted": "a large white building is near a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

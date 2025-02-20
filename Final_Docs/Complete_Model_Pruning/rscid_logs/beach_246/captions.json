@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> yellow beach is between blue ocean and a road .",
+        "Pruned_Predicted": "yellow beach is between a piece of green ocean and a curved road .",
+        "Unpruned_Predicted": "a yellow beach is near an ocean with white waves ."
+    },
+    {
+        "Expected": "<SOS> yellow beach lies between the blue ocean and a road .",
+        "Pruned_Predicted": "yellow beach is between a piece of green ocean and a curved road .",
+        "Unpruned_Predicted": "a yellow beach is near an ocean with white waves ."
+    }
+]

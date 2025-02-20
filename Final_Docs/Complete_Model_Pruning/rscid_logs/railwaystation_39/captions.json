@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> here are many red roof houses around the railway station .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> here are many houses with red roof around the station .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    }
+]

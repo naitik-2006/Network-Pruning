@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are several masses of vegetation with irregular shape in the sea while some vegetation grows on the beach .",
+        "Pruned_Predicted": "yellow beach is between a piece of green ocean and a curved road .",
+        "Unpruned_Predicted": "the water to the beach against big white waves ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> in the roundabout of two crossing roads   there is a circle square with a <UNK> .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

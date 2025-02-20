@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> buildings and a playground with two basketball fields in it are in two sides of a road .",
+        "Pruned_Predicted": "a tennis court is next to several buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    },
+    {
+        "Expected": "<SOS> the main color of this street basketball court is gray .",
+        "Pruned_Predicted": "a tennis court is next to several buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> three playgrounds are surrounded by some green plants and buildings .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many buildings and green trees are around three playgrounds separately .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> three playgrounds are surrounded by some green plants and buildings .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

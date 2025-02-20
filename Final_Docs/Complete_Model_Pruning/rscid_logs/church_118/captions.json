@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a piece of green trees is near a church .",
+        "Pruned_Predicted": "a church is near a road with some green trees .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> the blue church extends in many directions and there is a dome on the <UNK> .",
+        "Pruned_Predicted": "a church is near a road with some green trees .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

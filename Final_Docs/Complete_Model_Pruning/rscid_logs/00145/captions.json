@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two circular buildings locate in the open space between two pieces of woods .",
+        "Pruned_Predicted": "a playground is next to a road .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    }
+]

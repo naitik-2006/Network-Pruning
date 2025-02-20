@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are roads , houses and trees , but the road like the upper passageway .",
+        "Pruned_Predicted": "many green trees and some buildings are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> the roads are grey and the trees are deep green .",
+        "Pruned_Predicted": "many green trees and some buildings are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    }
+]

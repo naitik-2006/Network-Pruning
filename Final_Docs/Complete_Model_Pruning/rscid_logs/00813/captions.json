@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a large baseball field is next to a road .",
+        "Pruned_Predicted": "a baseball field is in a stadium near a parking lot .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several green trees ."
+    },
+    {
+        "Expected": "<SOS> the baseball field , with stand which can contain ten thousands of <UNK> , is majestic .",
+        "Pruned_Predicted": "a baseball field is in a stadium near a parking lot .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several green trees ."
+    }
+]

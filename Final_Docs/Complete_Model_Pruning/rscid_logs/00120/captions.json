@@ -1,0 +1,22 @@
+[
+    {
+        "Expected": "<SOS> two small courts locate in a large grass .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    },
+    {
+        "Expected": "<SOS> two tennis courts surrounded by green meadows are near to several buildings .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    },
+    {
+        "Expected": "<SOS> two tennis fields are surround by green meadows .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    },
+    {
+        "Expected": "<SOS> two tennis courts are surrounded by a large piece of green meadow .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    }
+]

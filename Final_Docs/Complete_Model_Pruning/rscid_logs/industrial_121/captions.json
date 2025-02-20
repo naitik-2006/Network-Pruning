@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many square buildings are in an industrial area .",
+        "Pruned_Predicted": "a basketball court is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many square buildings are located in an industrial area .",
+        "Pruned_Predicted": "a basketball court is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

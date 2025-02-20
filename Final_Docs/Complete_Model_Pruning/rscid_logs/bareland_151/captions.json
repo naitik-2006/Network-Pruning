@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a road is near a piece of bare land .",
+        "Pruned_Predicted": "a small wild road is located in a piece of agricultural land .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

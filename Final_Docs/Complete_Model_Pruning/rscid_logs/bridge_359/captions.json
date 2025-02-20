@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two paralleled tied arch bridge traverse the wide river with rows of trees on its banks .",
+        "Pruned_Predicted": "a bridge is on a river with some green trees on two sides of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    }
+]

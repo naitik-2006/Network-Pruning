@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many people are in a piece of yellow beach near an ocean .",
+        "Pruned_Predicted": "yellow beach is near a piece of green ocean .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    },
+    {
+        "Expected": "<SOS> many people are on a yellow beach near an ocean .",
+        "Pruned_Predicted": "yellow beach is near a piece of green ocean .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    }
+]

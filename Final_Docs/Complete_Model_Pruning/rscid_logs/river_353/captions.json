@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the river is deep blue , the object pattern is yellow and purple .",
+        "Pruned_Predicted": "many green trees and some buildings are located on both sides of a curved river .",
+        "Unpruned_Predicted": "many green trees are around a church ."
+    }
+]

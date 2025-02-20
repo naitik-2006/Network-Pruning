@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> three tennis courts are located here orderly and decorated by some trees .",
+        "Pruned_Predicted": "three tennis courts are next to a crossroads .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    }
+]

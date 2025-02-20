@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are two long curved flyovers spanning the road below next to this prosperous city area .",
+        "Pruned_Predicted": "many bareland with sparse green trees and several ponds and buildings are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

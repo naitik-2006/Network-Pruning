@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the building built in the square is a gymnasium .",
+        "Pruned_Predicted": "some green trees are around a stadium with a football pitch in it .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    },
+    {
+        "Expected": "<SOS> there 's a football stadium in the gym .",
+        "Pruned_Predicted": "some green trees are around a stadium with a football pitch in it .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    }
+]

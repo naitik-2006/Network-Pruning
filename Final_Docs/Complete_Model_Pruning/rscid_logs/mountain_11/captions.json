@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the mountain full of undulation is green and grey .",
+        "Pruned_Predicted": "the green hills are next to each other in an unbroken line .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

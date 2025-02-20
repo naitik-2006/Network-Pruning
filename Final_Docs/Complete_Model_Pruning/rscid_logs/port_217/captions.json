@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there 's a <UNK> sailing out of the port of ploygon <UNK> white sea spray behind .",
+        "Pruned_Predicted": "many boats are in a port near a building and several green trees .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    }
+]

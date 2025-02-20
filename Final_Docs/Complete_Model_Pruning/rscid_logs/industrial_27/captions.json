@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> several large buildings are located in an industrial area .",
+        "Pruned_Predicted": "many buildings are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> several large buildings are in an industrial area .",
+        "Pruned_Predicted": "many buildings are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> several large buildings are in an industrial area .",
+        "Pruned_Predicted": "many buildings are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

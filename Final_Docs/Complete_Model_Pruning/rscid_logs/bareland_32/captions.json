@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the bare land is vast and has no vegetation .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    },
+    {
+        "Expected": "<SOS> the bare earth is vast and has no vegetation .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    }
+]

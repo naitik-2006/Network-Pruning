@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some green trees are near an oval stage .",
+        "Pruned_Predicted": "a stadium with a football field in it is located at the center of a road .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    },
+    {
+        "Expected": "<SOS> some green trees are close to an oval stage .",
+        "Pruned_Predicted": "a stadium with a football field in it is located at the center of a road .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    }
+]

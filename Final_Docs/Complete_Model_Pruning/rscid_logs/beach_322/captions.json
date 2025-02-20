@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a small fish is in the vastness of the sea .",
+        "Pruned_Predicted": "yellow beach is between green ocean and green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> the sea beat the white spray on the beach .",
+        "Pruned_Predicted": "yellow beach is between green ocean and green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

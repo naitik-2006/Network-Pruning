@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a church is surrounded by three triangle - shaped roads .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

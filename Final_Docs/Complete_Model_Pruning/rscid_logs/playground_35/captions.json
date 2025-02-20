@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are many grey houses on the roof next to the playground .",
+        "Pruned_Predicted": "a playground with a football field in it is surrounded by some green trees and several buildings .",
+        "Unpruned_Predicted": "a playground with a football pitch in it is surrounded by some green trees and several buildings ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the naked earth with red stripes has a white fog like shadows .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

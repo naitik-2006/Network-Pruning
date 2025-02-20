@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> an ocean with white waves is near yellow beach .",
+        "Pruned_Predicted": "yellow beach is near a piece of blue ocean with a white wave line .",
+        "Unpruned_Predicted": "yellow beach is near a piece of green ocean ."
+    }
+]

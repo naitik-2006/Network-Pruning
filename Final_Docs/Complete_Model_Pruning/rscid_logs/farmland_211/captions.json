@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some pieces of farmlands are together .",
+        "Pruned_Predicted": "a small wild road is located in a piece of agricultural land .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

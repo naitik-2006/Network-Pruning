@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a square is surrounded by roads and buildings .",
+        "Pruned_Predicted": "a square with some green trees is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> a triangle square in the middle with some buildings besides .",
+        "Pruned_Predicted": "a square with some green trees is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

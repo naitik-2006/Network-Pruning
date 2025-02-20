@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two islands in the lake surrounded by green trees .",
+        "Pruned_Predicted": "many boats are in a port near many buildings and green trees .",
+        "Unpruned_Predicted": "many pieces of green agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> a house is on the island and a ferris wheel is in the park .",
+        "Pruned_Predicted": "many boats are in a port near many buildings and green trees .",
+        "Unpruned_Predicted": "many pieces of green agricultural land are together ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> several small rivers are among many pieces of khaki mountains .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

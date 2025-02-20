@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the white church is located in the center of the square .",
+        "Pruned_Predicted": "some buildings and green trees are in a medium residential area .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

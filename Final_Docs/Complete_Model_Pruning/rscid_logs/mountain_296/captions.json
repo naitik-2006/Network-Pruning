@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the green hills are next to each other in an uninterrupted line .",
+        "Pruned_Predicted": "some white snow covers an irregular part of mountain khaki .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> some white snows cover a part of khaki irregular mountain .",
+        "Pruned_Predicted": "some white snow covers an irregular part of mountain khaki .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

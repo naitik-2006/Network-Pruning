@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> several planes are in an airport near some buildings and green trees .",
+        "Pruned_Predicted": "many buildings and bare land are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some bare land are located on both sides of a train station ."
+    },
+    {
+        "Expected": "<SOS> several planes are in an airport near some buildings and green trees .",
+        "Pruned_Predicted": "many buildings and bare land are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some bare land are located on both sides of a train station ."
+    },
+    {
+        "Expected": "<SOS> several planes are located in an airport near some buildings and green trees .",
+        "Pruned_Predicted": "many buildings and bare land are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some bare land are located on both sides of a train station ."
+    }
+]

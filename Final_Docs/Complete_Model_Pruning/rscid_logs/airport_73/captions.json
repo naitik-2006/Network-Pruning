@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> on the ground with a wide runway .",
+        "Pruned_Predicted": "a river with branches and a bridge across it is between a river and a road .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many green trees and buildings ."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> some green plants are close to a piece of khaki bareland .",
+        "Pruned_Predicted": "it 's a piece of irregular caki stripping .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> some green plants are close to a piece of khaki stripping .",
+        "Pruned_Predicted": "it 's a piece of irregular caki stripping .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> some green plants are near a piece of khaki bareland .",
+        "Pruned_Predicted": "it 's a piece of irregular caki stripping .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

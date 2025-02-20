@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> black and white trains stop in the shape of a bow on the rails .",
+        "Pruned_Predicted": "a large building is near a river with a bridge .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

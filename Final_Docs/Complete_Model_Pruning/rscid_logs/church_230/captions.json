@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings and some green tree are in two sides of a church .",
+        "Pruned_Predicted": "the houses in the residential area are very clean .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> on either side of the white church are red buildings .",
+        "Pruned_Predicted": "the houses in the residential area are very clean .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

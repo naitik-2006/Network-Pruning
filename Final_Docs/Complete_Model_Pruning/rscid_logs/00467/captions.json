@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> in the area between bushes , a sport park including tennis courts and basketball courts can be seen .",
+        "Pruned_Predicted": "a basketball field and a tennis court are next to a road .",
+        "Unpruned_Predicted": "a large building is close to a playground with four tennis courts and two baseball fields ."
+    }
+]

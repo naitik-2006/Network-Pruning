@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the arc - shaped river is through the forest .",
+        "Pruned_Predicted": "a baseball field is surrounded by some green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by many green trees and meadows ."
+    },
+    {
+        "Expected": "<SOS> many green trees with a pond surrounded by them are in two sides of a yellow river .",
+        "Pruned_Predicted": "a baseball field is surrounded by some green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by many green trees and meadows ."
+    }
+]

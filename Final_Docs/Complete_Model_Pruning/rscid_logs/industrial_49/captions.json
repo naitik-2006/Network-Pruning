@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some roads traverse the industrial with the grey workshops .",
+        "Pruned_Predicted": "many buildings are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> several curved roads passes by this prosperous industrial area where park many cars .",
+        "Pruned_Predicted": "many buildings are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

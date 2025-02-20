@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the small farm consists of grass and crops .",
+        "Pruned_Predicted": "a small wild road is located in a piece of agricultural land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    },
+    {
+        "Expected": "<SOS> a few crooked paths pass through the farm .",
+        "Pruned_Predicted": "a small wild road is located in a piece of agricultural land .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    }
+]

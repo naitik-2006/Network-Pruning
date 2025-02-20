@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings are around a busy crossroads .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> the <UNK> district consists of many office buildings , <UNK> <UNK> , wide roads and vehicles .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

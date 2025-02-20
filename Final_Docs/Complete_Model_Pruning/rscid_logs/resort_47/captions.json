@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> between the beach and a road   there is a resort with red roof houses decorated with coconut trees and swimming pools .",
+        "Pruned_Predicted": "several buildings with a swimming pool are close to a road in a resort .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several small trees ."
+    }
+]

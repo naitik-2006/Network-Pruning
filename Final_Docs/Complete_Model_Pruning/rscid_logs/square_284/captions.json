@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> four green flower beds are in the center of the square .",
+        "Pruned_Predicted": "a square building is near a parking lot and some green trees .",
+        "Unpruned_Predicted": "many green trees and several buildings are around a silver grey circle building ."
+    },
+    {
+        "Expected": "<SOS> two lines of green trees are on both sides of a square .",
+        "Pruned_Predicted": "a square building is near a parking lot and some green trees .",
+        "Unpruned_Predicted": "many green trees and several buildings are around a silver grey circle building ."
+    }
+]

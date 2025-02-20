@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a rectangular lake is surrounded by several lines of green trees .",
+        "Pruned_Predicted": "a small road with many cars is on a green pond .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several boats in two sides of it ."
+    },
+    {
+        "Expected": "<SOS> a rectangular pond is surrounded by several rows of green trees .",
+        "Pruned_Predicted": "a small road with many cars is on a green pond .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and several boats in two sides of it ."
+    }
+]

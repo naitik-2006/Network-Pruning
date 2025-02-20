@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some planes are around a circle building with several parking lots in it .",
+        "Pruned_Predicted": "many planes are around a long building .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    },
+    {
+        "Expected": "<SOS> some planes are around a building in a circle with several parking spaces in it .",
+        "Pruned_Predicted": "many planes are around a long building .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

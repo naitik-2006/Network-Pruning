@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> we can see an s shaped and some other high rise building standing along the road while inside the block medium rise apartment buildings are orderly lined up .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

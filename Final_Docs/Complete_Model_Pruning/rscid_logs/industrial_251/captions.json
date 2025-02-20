@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> some buildings with a parking lot are close to a road in an industrial area .",
+        "Pruned_Predicted": "many buildings and some bare land are located in an industrial area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> some buildings with parking are close to a road in an industrial area .",
+        "Pruned_Predicted": "many buildings and some bare land are located in an industrial area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> some buildings with parking are near a road in an industrial area .",
+        "Pruned_Predicted": "many buildings and some bare land are located in an industrial area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

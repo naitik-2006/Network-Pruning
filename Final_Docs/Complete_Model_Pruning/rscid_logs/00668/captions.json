@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> tennis courts , basketball courts , football field , baseball field and swimming pool are the parts of this park , surrounded by a curved road .",
+        "Pruned_Predicted": "a stadium with a playground in it is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

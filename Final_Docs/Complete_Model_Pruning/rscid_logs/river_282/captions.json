@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some green trees are found on both sides of a curved yellow river .",
+        "Pruned_Predicted": "the river is curved and lush and the trees are flourishing .",
+        "Unpruned_Predicted": "many green trees are around a square with green trees ."
+    },
+    {
+        "Expected": "<SOS> some green trees are located on two sides of a curved yellow river .",
+        "Pruned_Predicted": "the river is curved and lush and the trees are flourishing .",
+        "Unpruned_Predicted": "many green trees are around a square with green trees ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a b - shaped viaduct near a white house with a parking lot is surrounded by agricultural land .",
+        "Pruned_Predicted": "many green trees are around a square near a road .",
+        "Unpruned_Predicted": "many green trees and several pieces of farmlands are in two sides of a curved river ."
+    }
+]

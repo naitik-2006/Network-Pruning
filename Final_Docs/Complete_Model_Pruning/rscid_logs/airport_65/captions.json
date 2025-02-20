@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the ploygon terminal is built near the road and other buildings on the other side including asphalt and runways .",
+        "Pruned_Predicted": "many planes are parked in an airport .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> the <UNK> runway next to a bright blue parking <UNK> .",
+        "Pruned_Predicted": "many planes are parked in an airport .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

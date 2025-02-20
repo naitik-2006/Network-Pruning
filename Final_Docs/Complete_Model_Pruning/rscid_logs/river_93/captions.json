@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> bareland are near a curved river .",
+        "Pruned_Predicted": "many green trees and some buildings are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> beside the river is a wasteland .",
+        "Pruned_Predicted": "many green trees and some buildings are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

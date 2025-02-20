@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are a few buildings and a trapezoid parking apron <UNK> with some planes next to which are fields with brown grass divided by tracks .",
+        "Pruned_Predicted": "some planes are near a terminal in an airport .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> there is some buildings and an <UNK> trapezoid parking apron with some aeroplanes   beside which is fields with brown grass divided by runways .",
+        "Pruned_Predicted": "some planes are near a terminal in an airport .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

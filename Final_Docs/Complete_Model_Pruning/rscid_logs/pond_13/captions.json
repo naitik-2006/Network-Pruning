@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> bareland is surrounded a circle pond .",
+        "Pruned_Predicted": "a pond with a narrow circular white bank is sandwiched between a forest and a grey white building and a road .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

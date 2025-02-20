@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it is a majestic mountain with bald ridges and green valleys .",
+        "Pruned_Predicted": "it 's a piece of green mountain .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    },
+    {
+        "Expected": "<SOS> there is snow in the peak of the mountain in the shadow of the mountain .",
+        "Pruned_Predicted": "it 's a piece of green mountain .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    }
+]

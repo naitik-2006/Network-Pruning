@@ -1,0 +1,22 @@
+[
+    {
+        "Expected": "<SOS> there is a magnificent bridge over the river .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> on either side of the river there are many grey roofed houses .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> on both sides of the river there are many grey houses covered .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> there 's a beautiful bridge over the river .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    }
+]

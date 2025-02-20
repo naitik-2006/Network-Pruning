@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some buildings are located on one side of a large train station .",
+        "Pruned_Predicted": "some buildings are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> some buildings are located on the side of a large railway station .",
+        "Pruned_Predicted": "some buildings are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a piece of sand in the desert is like fish scale .",
+        "Pruned_Predicted": "there is a house with a grey roof on the desert .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> a dark gray and light gray .",
+        "Pruned_Predicted": "there is a house with a grey roof on the desert .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

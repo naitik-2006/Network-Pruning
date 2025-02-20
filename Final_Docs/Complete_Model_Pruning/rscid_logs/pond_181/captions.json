@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two rectangular ponds are surrounded by yellow bareland .",
+        "Pruned_Predicted": "a road is on a square pond .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and bare land ."
+    }
+]

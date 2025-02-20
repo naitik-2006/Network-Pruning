@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the square is mainly made up of neatly and orderly plants while the tower at the center is eye - <UNK> .",
+        "Pruned_Predicted": "the square is surrounded by many trees and dark green buildings .",
+        "Unpruned_Predicted": "many green trees and some buildings are in a park ."
+    },
+    {
+        "Expected": "<SOS> the square is mainly composed of neat and orderly plants while the tower in the center is looking .",
+        "Pruned_Predicted": "the square is surrounded by many trees and dark green buildings .",
+        "Unpruned_Predicted": "many green trees and some buildings are in a park ."
+    }
+]

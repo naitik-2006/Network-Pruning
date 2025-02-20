@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a small pond is located in a piece of green forest .",
+        "Pruned_Predicted": "yellow beach is near a piece of green ocean with several white waves .",
+        "Unpruned_Predicted": "many green trees are in a piece of forest ."
+    },
+    {
+        "Expected": "<SOS> this piece of the forest is green and dense .",
+        "Pruned_Predicted": "yellow beach is near a piece of green ocean with several white waves .",
+        "Unpruned_Predicted": "many green trees are in a piece of forest ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the residual land is divided into several parts by road .",
+        "Pruned_Predicted": "it 's a piece of irregular caki stripping .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    }
+]

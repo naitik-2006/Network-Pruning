@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings are separated by two roads with one of the blocks with a playground .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> a playground between several buildings and many buildings are separated by a road .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a rectangular lake is separated by two small rectangles .",
+        "Pruned_Predicted": "a road is between a football playground and villas .",
+        "Unpruned_Predicted": "many boats are in a port near many buildings ."
+    }
+]

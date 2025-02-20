@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> green blocks of farmland are <UNK> in this farmland .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> beside the river is a farmland with some grey square scattered around .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

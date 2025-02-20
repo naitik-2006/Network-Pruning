@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two swimming pools are surrounded by a ring of houses with vivid roofs next to a road at the sea .",
+        "Pruned_Predicted": "a swimming pool is between a road and a port with several boats .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

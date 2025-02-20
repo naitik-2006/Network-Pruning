@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> in the center of the region , there is a huge football pitch and there are a few tennis and basketball courts nearby .",
+        "Pruned_Predicted": "many green trees and several buildings are around a playground with a football field in it .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    }
+]

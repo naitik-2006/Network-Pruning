@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a viaduct with a loop on one side and a <UNK> road on the other .",
+        "Pruned_Predicted": "many green trees are near a viaduct .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    }
+]

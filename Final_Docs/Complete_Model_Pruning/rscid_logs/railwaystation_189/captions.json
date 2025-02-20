@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a highway overpass spans this large railway station with many cargo trains .",
+        "Pruned_Predicted": "some buildings are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> the viaduct is above the rails with trains of black vans .",
+        "Pruned_Predicted": "some buildings are located on both sides of a station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

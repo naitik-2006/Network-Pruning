@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are some bare white or brown land around the green farm .",
+        "Pruned_Predicted": "many green plants are in two sides of a curved yellow river .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> some roads were built around green fields .",
+        "Pruned_Predicted": "many green plants are in two sides of a curved yellow river .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

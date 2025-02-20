@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> three planes are parked on an airport next to a large piece of green meadow .",
+        "Pruned_Predicted": "two planes are parked in the airport .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> three planes are parked on an airport next to a piece of meadow .",
+        "Pruned_Predicted": "two planes are parked in the airport .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> a small plane stops between two large planes .",
+        "Pruned_Predicted": "two planes are parked in the airport .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

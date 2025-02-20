@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a lot of wheat is grown in the field .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many green trees are around a playground with a football field in it ."
+    },
+    {
+        "Expected": "<SOS> there 's a highway on the farm .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many green trees are around a playground with a football field in it ."
+    }
+]

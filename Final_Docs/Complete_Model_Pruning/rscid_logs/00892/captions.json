@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a red boat with a small gray boat is in water .",
+        "Pruned_Predicted": "a red long boat is in black water .",
+        "Unpruned_Predicted": "a bridge is on a river with several buildings on one side of it ."
+    },
+    {
+        "Expected": "<SOS> a long red boat with a small gray boat are in water .",
+        "Pruned_Predicted": "a red long boat is in black water .",
+        "Unpruned_Predicted": "a bridge is on a river with several buildings on one side of it ."
+    }
+]

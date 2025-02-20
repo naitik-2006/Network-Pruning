@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there is a white grandstand on the side of the ground track field .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many green trees and many buildings ."
+    },
+    {
+        "Expected": "<SOS> a playground with a football field and two basketball fields in it is near several buildings and green trees .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many green trees and many buildings ."
+    }
+]

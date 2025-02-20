@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the swimming is in the center of a zigzag ring of buildings next to a parking lot .",
+        "Pruned_Predicted": "a large building with a swimming pool and a tennis court is close to a beach in a resort .",
+        "Unpruned_Predicted": "several buildings with swimming pool are in a resort ."
+    }
+]

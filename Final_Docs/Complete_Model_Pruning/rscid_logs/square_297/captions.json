@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the center of the square is oval .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    }
+]

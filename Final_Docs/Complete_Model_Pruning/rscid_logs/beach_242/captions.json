@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this beach sits alongside the road .",
+        "Pruned_Predicted": "a yellow ribbon beach is between green ocean and black rocks .",
+        "Unpruned_Predicted": "yellow beach is near a piece of green ocean ."
+    },
+    {
+        "Expected": "<SOS> the <UNK> <UNK> between the sea and a high way .",
+        "Pruned_Predicted": "a yellow ribbon beach is between green ocean and black rocks .",
+        "Unpruned_Predicted": "yellow beach is near a piece of green ocean ."
+    }
+]

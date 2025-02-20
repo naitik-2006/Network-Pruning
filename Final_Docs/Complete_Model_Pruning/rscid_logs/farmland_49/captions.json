@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two crossroads <UNK> the light green farmland in six pieces .",
+        "Pruned_Predicted": "the little farm consists of grass and crops .",
+        "Unpruned_Predicted": "it 's a piece of green meadow ."
+    }
+]

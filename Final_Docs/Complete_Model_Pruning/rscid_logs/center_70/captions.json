@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> an irregular curve of metal construction is <UNK> with a river and a boat moored behind which are some square buildings .",
+        "Pruned_Predicted": "a large building is near a road .",
+        "Unpruned_Predicted": "many storage tanks are near a river ."
+    }
+]

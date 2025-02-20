@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> dark blue swimming pools buildings with living meadow roofs are at the corner of the island .",
+        "Pruned_Predicted": "many green trees and some buildings are in a resort with a pond .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    }
+]

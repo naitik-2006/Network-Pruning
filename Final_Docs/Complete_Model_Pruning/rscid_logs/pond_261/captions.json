@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some gray buildings and a road with several cars are in two sides of an irregular long green pond .",
+        "Pruned_Predicted": "some buildings and green trees are in a medium residential area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in two sides of a river with a bridge over it ."
+    }
+]

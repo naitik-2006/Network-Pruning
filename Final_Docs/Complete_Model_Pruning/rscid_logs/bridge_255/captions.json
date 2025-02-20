@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two parallel bridges are located on a black pond near some green trees and several buildings .",
+        "Pruned_Predicted": "a bridge is on a river with some green trees on two sides .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    },
+    {
+        "Expected": "<SOS> two parallel bridges are in a black pond near some green trees and several buildings .",
+        "Pruned_Predicted": "a bridge is on a river with some green trees on two sides .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    }
+]

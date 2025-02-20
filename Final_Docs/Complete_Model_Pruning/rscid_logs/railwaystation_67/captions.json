@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the railway station is combined by a huge building surrounded a parking lot and blue station platform over the rails .",
+        "Pruned_Predicted": "many buildings and some green trees are located on both sides of a train station .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    }
+]

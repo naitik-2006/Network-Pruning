@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> these tennis courts <UNK> people 's <UNK> because their colors are bright blue and green .",
+        "Pruned_Predicted": "a playground is surrounded by some green trees and many buildings .",
+        "Unpruned_Predicted": "many boats are in a port near many buildings ."
+    }
+]

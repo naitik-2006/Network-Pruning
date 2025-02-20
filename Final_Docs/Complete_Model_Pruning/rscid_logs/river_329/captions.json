@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a crooked river flows through a large area .",
+        "Pruned_Predicted": "a crooked river flows through a large area .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> six blocks of apartment buildings can be seen with bare lawns and trees .",
+        "Pruned_Predicted": "many buildings are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

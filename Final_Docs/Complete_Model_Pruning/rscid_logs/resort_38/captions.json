@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many luxury villas were built by the sea .",
+        "Pruned_Predicted": "many buildings with swimming pools and some green trees are near a beach .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

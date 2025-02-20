@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the right road is next to the curved coast .",
+        "Pruned_Predicted": "a white plane is on an airport .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> white beach is between a road and a piece of green ocean .",
+        "Pruned_Predicted": "a white plane is on an airport .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are many people here on the beach .",
+        "Pruned_Predicted": "a beach is between a piece of green ocean and some green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    },
+    {
+        "Expected": "<SOS> a row of umbrellas on the beach .",
+        "Pruned_Predicted": "a beach is between a piece of green ocean and some green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

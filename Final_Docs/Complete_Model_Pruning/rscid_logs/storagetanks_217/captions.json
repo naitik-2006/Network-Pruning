@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> surrounded by roads on the grassy ground stands several cylinder storage tanks linked by pipes .",
+        "Pruned_Predicted": "many storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> some silver gray storage tanks are near some green plants .",
+        "Pruned_Predicted": "many storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> there are many metallic columnar tanks connected to each other by pipes .",
+        "Pruned_Predicted": "many storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    }
+]

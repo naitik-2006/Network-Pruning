@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some white storage tanks are in a piece of bareland .",
+        "Pruned_Predicted": "many storage tanks are surrounded by bareland .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

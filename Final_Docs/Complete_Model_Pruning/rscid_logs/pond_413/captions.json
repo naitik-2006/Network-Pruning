@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the curved quadrangle pond is lying on the bare ground with several clusters of trees .",
+        "Pruned_Predicted": "a pond with some green trees is located on two sides of a curved green river .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    },
+    {
+        "Expected": "<SOS> several trees are scattered on the bare bank of this pond .",
+        "Pruned_Predicted": "a pond with some green trees is located on two sides of a curved green river .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    }
+]

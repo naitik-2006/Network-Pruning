@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the rectangular square has a square field and a hexagon field .",
+        "Pruned_Predicted": "many green trees are around a square circle .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> a rectangle square is surrounded by four square buildings and a road with cars parked along .",
+        "Pruned_Predicted": "many green trees are around a square circle .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

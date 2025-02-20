@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a mid lake island is in the s shaped river which is between two living region .",
+        "Pruned_Predicted": "many green plants and buildings are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

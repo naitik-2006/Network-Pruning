@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two jars with green paint and many tall trees beside .",
+        "Pruned_Predicted": "four large storage tanks stands in line surrounded by trees and a river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

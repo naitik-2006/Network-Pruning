@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a house with a lot of gray or white roofs on land .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> there are some trees around the house .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

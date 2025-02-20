@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many white storage tanks were built on the lawn .",
+        "Pruned_Predicted": "many storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> a lot of grey roofed houses were built near the factory .",
+        "Pruned_Predicted": "many storage tanks are surrounded by green meadows .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

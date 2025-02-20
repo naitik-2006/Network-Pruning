@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a piece of <UNK> fields similar .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> a piece of similar <UNK> land .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    },
+    {
+        "Expected": "<SOS> there are several vacant places in the field .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

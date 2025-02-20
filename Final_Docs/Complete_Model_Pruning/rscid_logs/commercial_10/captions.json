@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a rectangle building with light gray roof in the middle .",
+        "Pruned_Predicted": "a church with several green trees are between two parallel roads .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> two gray highway through the residential while with many plants besides .",
+        "Pruned_Predicted": "a church with several green trees are between two parallel roads .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

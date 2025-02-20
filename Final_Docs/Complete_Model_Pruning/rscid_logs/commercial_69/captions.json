@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> convenient construction , here the road , is the center of a city , is also a business developed land .",
+        "Pruned_Predicted": "many buildings are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> <UNK> construction , here the road , is the center of a city , is also a developed business land .",
+        "Pruned_Predicted": "many buildings are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

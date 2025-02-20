@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there 's a lot of farmland .",
+        "Pruned_Predicted": "many pieces of green farmlands are orderly together .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    },
+    {
+        "Expected": "<SOS> many pieces of green farmlands are together .",
+        "Pruned_Predicted": "many pieces of green farmlands are orderly together .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    }
+]

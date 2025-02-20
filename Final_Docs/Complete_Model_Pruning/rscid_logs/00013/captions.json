@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many orderly buildings and trees are around two playground in different sizes .",
+        "Pruned_Predicted": "many buildings are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> the regular <UNK> embraces a football field .",
+        "Pruned_Predicted": "many buildings are in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

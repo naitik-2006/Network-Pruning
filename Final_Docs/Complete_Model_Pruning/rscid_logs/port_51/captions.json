@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> these densely populated areas are <UNK> an ocean .",
+        "Pruned_Predicted": "many boats are in a port near many buildings and green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    }
+]

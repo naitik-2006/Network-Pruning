@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a white agricultural land next to a clear green vertical agricultural land .",
+        "Pruned_Predicted": "a road is in a piece of green agricultural land .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    }
+]

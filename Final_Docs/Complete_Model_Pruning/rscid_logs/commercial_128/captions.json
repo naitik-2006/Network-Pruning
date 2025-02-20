@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many buildings near a crossroads are in a business area .",
+        "Pruned_Predicted": "a <UNK> in the middle while with many buildings on the either hand .",
+        "Unpruned_Predicted": "many buildings are located in a commercial area ."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> many buildings are located on two sides of a curved river .",
+        "Pruned_Predicted": "many buildings are around a park with a large pond .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> many buildings are in two sides of a curved river .",
+        "Pruned_Predicted": "many buildings are around a park with a large pond .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> many buildings are on two sides of a curved river .",
+        "Pruned_Predicted": "many buildings are around a park with a large pond .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

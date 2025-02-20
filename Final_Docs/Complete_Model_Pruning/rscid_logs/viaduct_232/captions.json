@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a two - loop viaduct is lying on the agricultural land with a few houses .",
+        "Pruned_Predicted": "a viaduct with two loops is located in grassy land with a striped track .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    }
+]

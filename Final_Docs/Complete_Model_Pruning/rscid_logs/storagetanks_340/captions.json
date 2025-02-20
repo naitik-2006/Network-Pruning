@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are rows of blue houses covered in the factory .",
+        "Pruned_Predicted": "there are many storage tanks in front of the orange <UNK> .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    },
+    {
+        "Expected": "<SOS> there are some white storage tanks in the plant .",
+        "Pruned_Predicted": "there are many storage tanks in front of the orange <UNK> .",
+        "Unpruned_Predicted": "it 's a piece of yellow stripe ."
+    }
+]

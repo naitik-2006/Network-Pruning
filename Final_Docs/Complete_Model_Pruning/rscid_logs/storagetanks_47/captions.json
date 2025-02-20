@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> here is a <UNK> road between five white storage tanks and a parking lot with trucks .",
+        "Pruned_Predicted": "some storage tanks are near a road with several cars .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

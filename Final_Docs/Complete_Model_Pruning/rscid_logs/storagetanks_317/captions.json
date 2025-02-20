@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a large lawn and a small house are near the reservoir .",
+        "Pruned_Predicted": "many storage tanks are in a factory near a river .",
+        "Unpruned_Predicted": "many buildings are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> the oil tanker is equipped with a large number of oil tanks in the dark .",
+        "Pruned_Predicted": "many storage tanks are in a factory near a river .",
+        "Unpruned_Predicted": "many buildings are in a commercial area ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the <UNK> and airport runways divide the field into several rounded rectangles arranged next to which buildings and a road are located .",
+        "Pruned_Predicted": "some planes are parked near several buildings with parking lots .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> we can see a z shaped termial building sits on the apron which is surrounded by runways .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several buildings ."
+    },
+    {
+        "Expected": "<SOS> some planes are near a building in an airport with a parking lot .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several buildings ."
+    }
+]

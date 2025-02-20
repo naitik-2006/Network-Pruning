@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the viaduct spans a rather bustling road with side roads connecting them .",
+        "Pruned_Predicted": "many green trees and some buildings are near a viaduct .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some green buildings and trees are close to a ring - shaped stadium .",
+        "Pruned_Predicted": "a stadium between two parallel roads is located near some cars and green trees .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> some buildings and green trees are near a stadium shaped like a ring runway .",
+        "Pruned_Predicted": "a stadium between two parallel roads is located near some cars and green trees .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

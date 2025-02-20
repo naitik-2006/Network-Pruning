@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a circular pool as a roundabout on the coast along which there are some yachts .",
+        "Pruned_Predicted": "a large number of cars parked in front of the resort .",
+        "Unpruned_Predicted": "many boats are in a port near some buildings and green trees ."
+    }
+]

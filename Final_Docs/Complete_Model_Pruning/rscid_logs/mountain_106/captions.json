@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> most of the rolling hills are grey , integrated with a few plants .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

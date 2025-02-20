@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a little white snow is on one side of a mountain .",
+        "Pruned_Predicted": "it 's a piece of green mountain with some snow .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    },
+    {
+        "Expected": "<SOS> some white snow is in one side of a mountain .",
+        "Pruned_Predicted": "it 's a piece of green mountain with some snow .",
+        "Unpruned_Predicted": "many green trees and several buildings with swimming pools are close to a beach in a resort ."
+    }
+]

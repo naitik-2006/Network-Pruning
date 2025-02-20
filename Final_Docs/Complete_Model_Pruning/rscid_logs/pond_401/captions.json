@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a large number of trees are planted next to the road .",
+        "Pruned_Predicted": "many green trees are around a pond near a road .",
+        "Unpruned_Predicted": "many green trees are around a pond with some bare land ."
+    },
+    {
+        "Expected": "<SOS> there 's a big lake next to the road .",
+        "Pruned_Predicted": "many green trees are around a pond near a road .",
+        "Unpruned_Predicted": "many green trees are around a pond with some bare land ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it 's a piece of irregular khaki bareland .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> it 's a piece of irregular caki stripping .",
+        "Pruned_Predicted": "it 's a piece of bare land .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

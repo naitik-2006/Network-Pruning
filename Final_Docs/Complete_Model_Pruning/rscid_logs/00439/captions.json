@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a plane is on an airport runway .",
+        "Pruned_Predicted": "two planes are parked in the airport .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    },
+    {
+        "Expected": "<SOS> a white plane is on an airport runway .",
+        "Pruned_Predicted": "two planes are parked in the airport .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

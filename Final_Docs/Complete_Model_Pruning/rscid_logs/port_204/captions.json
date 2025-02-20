@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> it is green lake and grassland , white ships , cream - colored road .",
+        "Pruned_Predicted": "many boats are in a port near a dock .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    }
+]

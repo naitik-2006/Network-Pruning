@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many green trees are found on both sides of a curved river .",
+        "Pruned_Predicted": "many agricultural lands are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many green trees and buildings are in a school with a playground and some basketball fields ."
+    },
+    {
+        "Expected": "<SOS> many green trees are on two sides of a curved river .",
+        "Pruned_Predicted": "many agricultural lands are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many green trees and buildings are in a school with a playground and some basketball fields ."
+    }
+]

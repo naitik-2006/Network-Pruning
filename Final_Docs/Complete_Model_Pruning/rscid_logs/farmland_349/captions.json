@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> green fields are surrounded by bare land .",
+        "Pruned_Predicted": "a lot of people are on a playground .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> a house with a white roof was built next to a piece of land .",
+        "Pruned_Predicted": "a lot of people are on a playground .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> a house with a white roof was built next to a plot of land .",
+        "Pruned_Predicted": "a lot of people are on a playground .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

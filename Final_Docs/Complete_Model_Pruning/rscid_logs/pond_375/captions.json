@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the large lake is in a rectangular shape .",
+        "Pruned_Predicted": "a bridge is over a dark green river with many green trees on two sides of it .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    }
+]

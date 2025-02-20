@@ -1,0 +1,22 @@
+[
+    {
+        "Expected": "<SOS> four baseball fields and a playground are surrounded by many green trees and several buildings .",
+        "Pruned_Predicted": "a baseball field is surrounded by many buildings and some green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by many scattered green trees and meadows ."
+    },
+    {
+        "Expected": "<SOS> a playground and four baseball fields are surrounded by many green trees and several buildings .",
+        "Pruned_Predicted": "a baseball field is surrounded by many buildings and some green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by many scattered green trees and meadows ."
+    },
+    {
+        "Expected": "<SOS> a football field and four small fan - shaped court surrounded .",
+        "Pruned_Predicted": "a baseball field is surrounded by many buildings and some green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by many scattered green trees and meadows ."
+    },
+    {
+        "Expected": "<SOS> a playground and four baseball fields are surrounded by many green trees and some buildings .",
+        "Pruned_Predicted": "a baseball field is surrounded by many buildings and some green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by many scattered green trees and meadows ."
+    }
+]

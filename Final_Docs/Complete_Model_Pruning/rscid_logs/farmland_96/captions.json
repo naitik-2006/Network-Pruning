@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> cracks on the ground .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    },
+    {
+        "Expected": "<SOS> cracks <UNK> on the ground .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    },
+    {
+        "Expected": "<SOS> many pieces of farmlands are orderly together .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a striped terminal building separates the landside and airside which contains an apron and a runway .",
+        "Pruned_Predicted": "many planes are parked near a terminal in an airport .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

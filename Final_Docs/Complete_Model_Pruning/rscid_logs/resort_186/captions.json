@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> it is blue buildings , gray buildings and red buildings , green trees and grassland , brown land and gray road .",
+        "Pruned_Predicted": "many green trees and some buildings are around a pond in a park near a river .",
+        "Unpruned_Predicted": "many buildings are located in an industrial area ."
+    }
+]

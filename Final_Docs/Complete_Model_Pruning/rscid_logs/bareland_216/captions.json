@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some green spots are scattered in a piece of naked khaki .",
+        "Pruned_Predicted": "many small spots are scattered in a piece of khaki bareland .",
+        "Unpruned_Predicted": "it 's a piece of yellow desert ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a factory was built on bare ground .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki nueland .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    },
+    {
+        "Expected": "<SOS> next to the road was a bare land .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki nueland .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

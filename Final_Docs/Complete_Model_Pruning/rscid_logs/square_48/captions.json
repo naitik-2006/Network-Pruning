@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the square is surrounded by rows of houses .",
+        "Pruned_Predicted": "many buildings are around a square circle .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    },
+    {
+        "Expected": "<SOS> the large square seems very open .",
+        "Pruned_Predicted": "many buildings are around a square circle .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a curved bridge across a straight broad river .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> a bridge is on a river with a parking lot on one side and several buildings on the other .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

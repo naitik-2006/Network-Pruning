@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are plenty of outdoor pools in the resort .",
+        "Pruned_Predicted": "many buildings with swimming pool and some green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> next to the beach is a vast resort .",
+        "Pruned_Predicted": "many buildings with swimming pool and some green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

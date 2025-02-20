@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> we can see the two sides of the river have a tree - lined road , with a lot of cars parked aside .",
+        "Pruned_Predicted": "a bridge is on a river with several buildings on one side of it .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several green trees ."
+    }
+]

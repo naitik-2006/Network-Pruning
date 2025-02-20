@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a playground surrounded by some trees and many buildings is next to a street .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with parking lots ."
+    },
+    {
+        "Expected": "<SOS> several long buildings and some green trees are around a playground .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with parking lots ."
+    },
+    {
+        "Expected": "<SOS> a playground semisurrounded by many buildings is next to a road .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with parking lots ."
+    }
+]

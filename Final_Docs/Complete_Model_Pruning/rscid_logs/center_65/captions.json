@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> the <UNK> center <UNK> is in the neighborhood is between two streets .",
+        "Pruned_Predicted": "a basketball field is next to a crossroads .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> a round building with blue glass on the roof is sandwiched between a road and a railway together with some other buildings and parked automobiles .",
+        "Pruned_Predicted": "a basketball field is next to a crossroads .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> it is a round center with grey roof which has a blue circle on it .",
+        "Pruned_Predicted": "a basketball field is next to a crossroads .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

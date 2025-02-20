@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many buildings are around a silver grey circle building .",
+        "Pruned_Predicted": "the center is a red square structure , a total of four layers .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

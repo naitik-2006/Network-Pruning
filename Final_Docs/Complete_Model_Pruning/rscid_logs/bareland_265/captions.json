@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> an irregular piece of naked caki is located between two parallel roads .",
+        "Pruned_Predicted": "a road is near a piece of bareland .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    },
+    {
+        "Expected": "<SOS> an irregular piece of naked khaki is between two parallel roads .",
+        "Pruned_Predicted": "a road is near a piece of bareland .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

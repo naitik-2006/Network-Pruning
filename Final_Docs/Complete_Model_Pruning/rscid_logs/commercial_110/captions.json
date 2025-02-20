@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings are in a commercial area .",
+        "Pruned_Predicted": "many crowded buildings are in a commercial area .",
+        "Unpruned_Predicted": "many green buildings and trees are located in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> the houses of the commercial region are very close .",
+        "Pruned_Predicted": "many crowded buildings are in a commercial area .",
+        "Unpruned_Predicted": "many green buildings and trees are located in a dense residential area ."
+    }
+]

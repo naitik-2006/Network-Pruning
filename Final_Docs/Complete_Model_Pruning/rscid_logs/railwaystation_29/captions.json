@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the station is surrounded by a dense residential area .",
+        "Pruned_Predicted": "many buildings are in two sides of a railway station .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

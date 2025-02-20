@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> two buildings are located on both sides of the red church separated by two roads with cars .",
+        "Pruned_Predicted": "a red church is near several red buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> two buildings are located on two sides of the red church separated by two roads with cars .",
+        "Pruned_Predicted": "a red church is near several red buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> two buildings are on two sides of red church separated by two streets with car .",
+        "Pruned_Predicted": "a red church is near several red buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

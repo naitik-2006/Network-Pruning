@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> railways are near a park with many green trees around a large pond .",
+        "Pruned_Predicted": "many buildings and some green trees are around a park with a pond .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school with a playground and a baseball field ."
+    },
+    {
+        "Expected": "<SOS> railways are close to a park with many green trees around a large pond .",
+        "Pruned_Predicted": "many buildings and some green trees are around a park with a pond .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school with a playground and a baseball field ."
+    }
+]

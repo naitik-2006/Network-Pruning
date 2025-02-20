@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> it 's the mountain region and the lakes .",
+        "Pruned_Predicted": "many buildings are near a large piece of bare land .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

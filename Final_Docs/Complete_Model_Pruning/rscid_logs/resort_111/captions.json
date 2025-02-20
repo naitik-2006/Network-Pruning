@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the resort contains several buildings with a few swimming pools on the upper floor .",
+        "Pruned_Predicted": "many buildings with swimming pools and some green trees are near a beach .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

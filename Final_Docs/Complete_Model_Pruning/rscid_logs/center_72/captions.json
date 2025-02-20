@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is three <UNK> like grey buildings of different size lying on the semi circle square   which is at the turning of the road .",
+        "Pruned_Predicted": "a round building and some square buildings are enclosed by streets and houses .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with many empty parking spaces ."
+    }
+]

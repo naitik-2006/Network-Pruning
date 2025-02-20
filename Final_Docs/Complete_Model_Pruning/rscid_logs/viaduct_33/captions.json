@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the high and low buildings are located on the green land .",
+        "Pruned_Predicted": "many buildings and green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

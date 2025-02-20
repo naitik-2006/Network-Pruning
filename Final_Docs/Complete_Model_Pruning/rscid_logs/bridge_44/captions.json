@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the <UNK> bridge spanning the wide river connects the green banks .",
+        "Pruned_Predicted": "a bridge is on a river with several green trees on two sides of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and bare land ."
+    },
+    {
+        "Expected": "<SOS> a <UNK> tower stayed cable bridge is across the river with trees growing on both sides .",
+        "Pruned_Predicted": "a bridge is on a river with several green trees on two sides of it .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and bare land ."
+    }
+]

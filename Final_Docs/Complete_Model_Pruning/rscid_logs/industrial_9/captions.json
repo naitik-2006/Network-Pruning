@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> industrial construction a lot .",
+        "Pruned_Predicted": "many buildings and bare land are located in an industrial area .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

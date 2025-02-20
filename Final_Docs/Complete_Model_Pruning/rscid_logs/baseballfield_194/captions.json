@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two baseball fields are close to some green trees and meadows .",
+        "Pruned_Predicted": "three baseball fields are surrounded by green trees and buildings .",
+        "Unpruned_Predicted": "a baseball field is surrounded by many green trees and several buildings ."
+    }
+]

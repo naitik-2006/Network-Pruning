@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> five white storage tanks in different sizes are near a river .",
+        "Pruned_Predicted": "several storage tanks are near a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> the <UNK> white columnar tank is connected to the four small white columnar tanks by pipes .",
+        "Pruned_Predicted": "several storage tanks are near a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a small bridge is above a river with many buildings on both sides .",
+        "Pruned_Predicted": "a bridge is on a river with many buildings on two sides .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

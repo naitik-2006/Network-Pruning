@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> on the corner of a cross there is a series of buildings whose shapes include the shape of arc and triangle leaves next to which is a square decorated with oval lawns .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

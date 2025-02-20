@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a silver gray center building is close to a road .",
+        "Pruned_Predicted": "a silver grey circle building center is surrounded by a few green trees and several buildings .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    }
+]

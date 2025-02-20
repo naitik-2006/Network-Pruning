@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a playground next to a crossroads is semisurrounded by some green plants and buildings .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many green trees and buildings ."
+    },
+    {
+        "Expected": "<SOS> football and basketball courts are located next to a road , and this road is under construction .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many green trees and buildings ."
+    },
+    {
+        "Expected": "<SOS> a playground next to a crossroads is semi - rounded by some green plants and buildings .",
+        "Pruned_Predicted": "a playground with basketball fields next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground with two basketball fields next to it is surrounded by many green trees and buildings ."
+    }
+]

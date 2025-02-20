@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a playground with a baseball field and several buildings are scattered in meadows in a resort .",
+        "Pruned_Predicted": "a playground with a baseball field next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and buildings ."
+    },
+    {
+        "Expected": "<SOS> a playground with a baseball field and several buildings are scattered in meadows in a complex .",
+        "Pruned_Predicted": "a playground with a baseball field next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and buildings ."
+    },
+    {
+        "Expected": "<SOS> a playground with a baseball field and several buildings are scattered on meadows in a resort .",
+        "Pruned_Predicted": "a playground with a baseball field next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and buildings ."
+    }
+]

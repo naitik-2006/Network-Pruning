@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are two large lakes on the land .",
+        "Pruned_Predicted": "a road is near a rectangular pond .",
+        "Unpruned_Predicted": "a large area of grass grows on the land ."
+    },
+    {
+        "Expected": "<SOS> around the lake is a large area of green farmland .",
+        "Pruned_Predicted": "a road is near a rectangular pond .",
+        "Unpruned_Predicted": "a large area of grass grows on the land ."
+    }
+]

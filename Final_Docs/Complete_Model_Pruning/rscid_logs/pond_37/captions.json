@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there is a large pool in the middle of the land .",
+        "Pruned_Predicted": "many buildings and green trees are around a pond near a road .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    },
+    {
+        "Expected": "<SOS> there 's a big pool in the middle of the earth .",
+        "Pruned_Predicted": "many buildings and green trees are around a pond near a road .",
+        "Unpruned_Predicted": "many green trees are in two sides of a river with a bridge over it ."
+    }
+]

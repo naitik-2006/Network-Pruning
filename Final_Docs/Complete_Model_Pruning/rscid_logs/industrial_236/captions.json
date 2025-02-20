@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some square factory buildings are located in these blocks where tree lines are planted along the roads .",
+        "Pruned_Predicted": "many buildings are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> the square industrial contains brown and blue warehouses .",
+        "Pruned_Predicted": "many buildings are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

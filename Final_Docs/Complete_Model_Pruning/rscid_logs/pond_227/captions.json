@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a rectangular pond is located in a factory with several storage tanks .",
+        "Pruned_Predicted": "a road is near a rectangular pond .",
+        "Unpruned_Predicted": "a football field is near several buildings and a road with several cars ."
+    }
+]

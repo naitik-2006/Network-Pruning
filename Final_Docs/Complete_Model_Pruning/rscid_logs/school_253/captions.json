@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> three football courts and twelve tennis courts are in a school with different buildings .",
+        "Pruned_Predicted": "a stadium between two pieces of green trees is near a road with cars running .",
+        "Unpruned_Predicted": "many boats are in a port near some buildings and green trees ."
+    }
+]

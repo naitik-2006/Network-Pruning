@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a football field enclosed by bleachers is surrounded by rows of automobiles .",
+        "Pruned_Predicted": "some green trees are around a stadium with a football pitch in it .",
+        "Unpruned_Predicted": "many boats are ordered in a port near a pier ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a railway station is near several parallel roads with cars and green trees in two sides .",
+        "Pruned_Predicted": "a small wild road is located through a piece of agricultural land .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

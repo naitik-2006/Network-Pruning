@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the curved roads over the yellowish lawn forms the viaduct .",
+        "Pruned_Predicted": "many green trees and several buildings are near a complicated viaduct .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

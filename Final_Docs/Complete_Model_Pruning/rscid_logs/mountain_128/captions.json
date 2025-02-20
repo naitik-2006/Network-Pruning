@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a big piece of mountain is near a lake .",
+        "Pruned_Predicted": "some white snows cover a part of a piece of green mountain .",
+        "Unpruned_Predicted": "many green trees are found on two sides of a curved river ."
+    }
+]

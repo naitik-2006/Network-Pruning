@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some houses have been built near the vast agricultural lands .",
+        "Pruned_Predicted": "many pieces of farmlands are together .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

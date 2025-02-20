@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two white planes are on airport runway .",
+        "Pruned_Predicted": "a plane is in an airport near a parking lot .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    },
+    {
+        "Expected": "<SOS> two planes are parked on an airport runway .",
+        "Pruned_Predicted": "a plane is in an airport near a parking lot .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

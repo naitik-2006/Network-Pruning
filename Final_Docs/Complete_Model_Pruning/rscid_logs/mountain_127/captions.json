@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> the mountain contains some forests while the other area is bald .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki mountain ."
+    },
+    {
+        "Expected": "<SOS> the mountain contains a few forest while other area is bald .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki mountain ."
+    },
+    {
+        "Expected": "<SOS> it is a piece of light green mountain .",
+        "Pruned_Predicted": "it 's a piece of irregular khaki mountain .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki mountain ."
+    }
+]

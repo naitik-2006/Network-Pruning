@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> eight white storage tanks are linked together with pipes .",
+        "Pruned_Predicted": "many storage tanks are near a piece of green lawn .",
+        "Unpruned_Predicted": "many white storage tanks are surrounded by green meadows ."
+    }
+]

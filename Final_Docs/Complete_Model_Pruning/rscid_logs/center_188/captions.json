@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> two semi drop shaped grey buildings located along the road   with some cars parked beside it .",
+        "Pruned_Predicted": "a building is near a road and several green trees .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> a aesthetic symmetrical oval center is surrounded by roads .",
+        "Pruned_Predicted": "a building is near a road and several green trees .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> a center building is near a curved road with cars on it and green trees in two sides .",
+        "Pruned_Predicted": "a building is near a road and several green trees .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

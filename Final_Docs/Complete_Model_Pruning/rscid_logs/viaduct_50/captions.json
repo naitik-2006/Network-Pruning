@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a star - shaped viaduct is surrounded by dense buildings .",
+        "Pruned_Predicted": "many green trees and buildings are near a viaduct .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    }
+]

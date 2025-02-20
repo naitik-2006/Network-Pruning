@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> it is red , dark green , white , black and brown .",
+        "Pruned_Predicted": "a playground with a basketball field next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> a playground and seven tennis courts are surrounded by buildings with parking lots in a school .",
+        "Pruned_Predicted": "a playground with a basketball field next to it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

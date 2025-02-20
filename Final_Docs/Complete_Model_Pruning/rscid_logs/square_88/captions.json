@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> several buildings and roads are around a square with several trees .",
+        "Pruned_Predicted": "a large building with a swimming pool and a tennis court is near a road .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> this is a rectangular square .",
+        "Pruned_Predicted": "a large building with a swimming pool and a tennis court is near a road .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

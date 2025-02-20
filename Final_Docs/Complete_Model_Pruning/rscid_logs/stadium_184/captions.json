@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> many cars and some green trees are near a stadium with a football pitch in it .",
+        "Pruned_Predicted": "some green trees are around a stadium with a football pitch in it .",
+        "Unpruned_Predicted": "many cars are in a parking lot near a road with green trees ."
+    },
+    {
+        "Expected": "<SOS> this is a square gym .",
+        "Pruned_Predicted": "some green trees are around a stadium with a football pitch in it .",
+        "Unpruned_Predicted": "many cars are in a parking lot near a road with green trees ."
+    },
+    {
+        "Expected": "<SOS> the building is white and the ground is green .",
+        "Pruned_Predicted": "some green trees are around a stadium with a football pitch in it .",
+        "Unpruned_Predicted": "many cars are in a parking lot near a road with green trees ."
+    }
+]

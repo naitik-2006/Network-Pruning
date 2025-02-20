@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some green trees are sparsely distributed on many pieces of agricultural land .",
+        "Pruned_Predicted": "many green trees are in a square .",
+        "Unpruned_Predicted": "many green trees and meadows are found on two sides of a curved river ."
+    },
+    {
+        "Expected": "<SOS> some green trees are sparsely distributed on many pieces of farmlands .",
+        "Pruned_Predicted": "many green trees are in a square .",
+        "Unpruned_Predicted": "many green trees and meadows are found on two sides of a curved river ."
+    }
+]

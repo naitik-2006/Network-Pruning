@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> what close to the football field are a rectangular block and a triangular area .",
+        "Pruned_Predicted": "a playground is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

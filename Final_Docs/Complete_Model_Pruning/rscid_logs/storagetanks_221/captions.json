@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> these large storage tanks are linked with pipes sitting by the bank of the river .",
+        "Pruned_Predicted": "there are many storage tanks in front of the orange <UNK> .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

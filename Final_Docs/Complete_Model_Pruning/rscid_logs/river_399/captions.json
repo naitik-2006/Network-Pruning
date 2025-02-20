@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the curved black river seperates the green plain from the bald farmland .",
+        "Pruned_Predicted": "many green trees are found on both sides of a curved black river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> villa another <UNK> behind the narrow river .",
+        "Pruned_Predicted": "a building with a pond is surrounded by some sparse green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by some scattered green trees near a road ."
+    },
+    {
+        "Expected": "<SOS> there is a building with a swimming pool in the green land villa .",
+        "Pruned_Predicted": "a building with a pond is surrounded by some sparse green trees .",
+        "Unpruned_Predicted": "a building with swimming pool is surrounded by some scattered green trees near a road ."
+    }
+]

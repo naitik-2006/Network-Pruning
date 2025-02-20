@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> it is an exactly round stadium with plenty of bleachers in it surrounding the soccer field .",
+        "Pruned_Predicted": "a stadium with a few parked cars outside is near a river .",
+        "Unpruned_Predicted": "a playground is surrounded by some green trees and many buildings ."
+    }
+]

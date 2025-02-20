@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> you can see from the air <UNK> buildings lined up .",
+        "Pruned_Predicted": "many cars are on a bridge over a river .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

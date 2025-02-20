@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the field is divided into several parts with corners rounded by runways and parking apron decorated with aircraft .",
+        "Pruned_Predicted": "many planes are in an airport near some buildings and green trees .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    },
+    {
+        "Expected": "<SOS> the field is divided into several parts with rounded corners by runways and parking apron decorated with aircrafts .",
+        "Pruned_Predicted": "many planes are in an airport near some buildings and green trees .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

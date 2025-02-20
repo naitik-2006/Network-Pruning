@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some grass is planted next to the road .",
+        "Pruned_Predicted": "many signs are in a piece of kaki nueland .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

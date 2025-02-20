@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this standard football pitch has a colorful platform .",
+        "Pruned_Predicted": "a playground with a football field in it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground with a football pitch in it is surrounded by many green trees and several buildings ."
+    },
+    {
+        "Expected": "<SOS> several buildings are around a playground .",
+        "Pruned_Predicted": "a playground with a football field in it is surrounded by many buildings .",
+        "Unpruned_Predicted": "a playground with a football pitch in it is surrounded by many green trees and several buildings ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a raod crosses agricultural land that is green and cream - coloured .",
+        "Pruned_Predicted": "many pieces of farmlands and some sparse buildings are together .",
+        "Unpruned_Predicted": "many green trees are found on two sides of a curved river ."
+    }
+]

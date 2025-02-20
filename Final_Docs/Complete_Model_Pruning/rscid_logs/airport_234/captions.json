@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> white tracks are near a terminal with many planes at an airport .",
+        "Pruned_Predicted": "many planes are parked near a terminal in an airport .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    },
+    {
+        "Expected": "<SOS> white runways are near a terminal with many planes in an airport .",
+        "Pruned_Predicted": "many planes are parked near a terminal in an airport .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    },
+    {
+        "Expected": "<SOS> white runways are near a terminal with many planes in an airport .",
+        "Pruned_Predicted": "many planes are parked near a terminal in an airport .",
+        "Unpruned_Predicted": "many planes are parked near a terminal in an airport ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> what sits behind the main building is a playground including a baksetball court and a tennis court .",
+        "Pruned_Predicted": "a playground is surrounded by many buildings and some green trees .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

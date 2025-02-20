@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a cyan cruciform church with a dark roof which is in the center is near some brick yellow buildings .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> a cyan church near several green trees and cars is surrounded by red building .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

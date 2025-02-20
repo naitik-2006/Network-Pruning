@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some green plants are in a large piece of farmland .",
+        "Pruned_Predicted": "many pieces of farmlands and several buildings are together .",
+        "Unpruned_Predicted": "a large piece of beach is between an ocean and some buildings ."
+    },
+    {
+        "Expected": "<SOS> some green plants are found in much of the agricultural land .",
+        "Pruned_Predicted": "many pieces of farmlands and several buildings are together .",
+        "Unpruned_Predicted": "a large piece of beach is between an ocean and some buildings ."
+    }
+]

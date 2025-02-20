@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some mountain with orange <UNK> while with many river besides .",
+        "Pruned_Predicted": "many buildings and some green trees are in a school .",
+        "Unpruned_Predicted": "a church is near a road with some cars ."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> a white narrow bridge spans the river with an island in it .",
+        "Pruned_Predicted": "a bridge is over a dark green river with many green trees on two sides of it .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    },
+    {
+        "Expected": "<SOS> some buildings and green plants are in two sides of a bridge respectively .",
+        "Pruned_Predicted": "a bridge is over a dark green river with many green trees on two sides of it .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    },
+    {
+        "Expected": "<SOS> a white bridge <UNK> from a forest and ends in the city .",
+        "Pruned_Predicted": "a bridge is over a dark green river with many green trees on two sides of it .",
+        "Unpruned_Predicted": "many boats are in a port near a dock ."
+    }
+]

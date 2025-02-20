@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a lawn and a runway are in the stadium .",
+        "Pruned_Predicted": "a round rectangle stadium with a circular road around is near a straight road .",
+        "Unpruned_Predicted": "a white building with a green pond and several tennis courts are in a resort ."
+    },
+    {
+        "Expected": "<SOS> many green plants are around a white stadium shaped like a ring runway .",
+        "Pruned_Predicted": "a round rectangle stadium with a circular road around is near a straight road .",
+        "Unpruned_Predicted": "a white building with a green pond and several tennis courts are in a resort ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the oval square which is surrounded by trees contains two buildings with black roof .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

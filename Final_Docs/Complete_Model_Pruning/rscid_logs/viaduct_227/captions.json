@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a viaduct in the shape of figure of eight is surrounded by farmland .",
+        "Pruned_Predicted": "the ease of the road are surrounded by dark green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> on the green and brown farmland   there is a viaduct with two diagonal loops   along which there are trees and grass .",
+        "Pruned_Predicted": "the ease of the road are surrounded by dark green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

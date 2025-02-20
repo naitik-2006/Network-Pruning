@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many red buildings are around a grey building .",
+        "Pruned_Predicted": "a large building is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> the past of the <UNK> building .",
+        "Pruned_Predicted": "a large building is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

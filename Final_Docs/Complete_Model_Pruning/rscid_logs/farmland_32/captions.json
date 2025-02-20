@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a few crooked paths pass through the farm .",
+        "Pruned_Predicted": "the small farm consists of grass and crops .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

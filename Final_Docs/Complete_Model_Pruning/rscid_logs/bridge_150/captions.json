@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many cars are on two parallel bridges over a river with some green trees and several buildings .",
+        "Pruned_Predicted": "many green trees are in two sides of a river with a bridge over it .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    },
+    {
+        "Expected": "<SOS> many cars are on two parallel bridges over a river with some green trees and several buildings .",
+        "Pruned_Predicted": "many green trees are in two sides of a river with a bridge over it .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some people are on a yellow beach near the green ocean .",
+        "Pruned_Predicted": "there are many people playing on the beach .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

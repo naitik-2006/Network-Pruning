@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> we can see a triangular industrial area surrounded by curved roads .",
+        "Pruned_Predicted": "many industrial buildings and some green trees are in an industrial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

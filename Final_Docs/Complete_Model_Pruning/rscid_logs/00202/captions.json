@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> three blue basketball fields and a four - way road beside .",
+        "Pruned_Predicted": "a basketball field and a tennis court are next to a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> the three tennis courts which stand side by side is next to a wide road .",
+        "Pruned_Predicted": "a basketball field and a tennis court are next to a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

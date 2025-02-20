@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there are two large factories in the factory .",
+        "Pruned_Predicted": "a large building is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> there 's a long road near the factory .",
+        "Pruned_Predicted": "a large building is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

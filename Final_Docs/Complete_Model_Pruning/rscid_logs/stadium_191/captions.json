@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the grey stage with radial white stripes on the roof is located near a land runway with tree lines decorated around .",
+        "Pruned_Predicted": "a stadium with a football field in it is surrounded by some green trees .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    },
+    {
+        "Expected": "<SOS> the grey stadium with radial white stripes on the roof is located near a ground track field   with lines of trees decorated around .",
+        "Pruned_Predicted": "a stadium with a football field in it is surrounded by some green trees .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    }
+]

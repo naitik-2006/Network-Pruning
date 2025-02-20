@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the rectangular square with a hexagon grassland is in the front of the huge church .",
+        "Pruned_Predicted": "a basketball field and a tennis court are next to a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

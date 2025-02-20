@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> there is a garden with a circle square in the middle of the block with compactly arranged grey roof houses near the road .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many gray buildings are orderly in a dense residential area .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> there is a gardens with a circular square in the middle of the block with compactly arranged grey roof houses near the road .",
+        "Pruned_Predicted": "many buildings and green trees are in a school .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

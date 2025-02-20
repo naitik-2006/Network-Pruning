@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> on agricultural land a house with a swimming pool is built on a square lawn near a road .",
+        "Pruned_Predicted": "a building with a swimming pool is surrounded by several sparse green trees .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

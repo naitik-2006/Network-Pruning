@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> this is an irregular block with residential buildings and exercise yard .",
+        "Pruned_Predicted": "a playground is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

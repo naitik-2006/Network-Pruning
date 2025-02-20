@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many vehicles on the road in the the stream never stops flowing .",
+        "Pruned_Predicted": "a square with green meadows are near a complicated building and some green trees .",
+        "Unpruned_Predicted": "many green trees and buildings are in a dense residential area ."
+    }
+]

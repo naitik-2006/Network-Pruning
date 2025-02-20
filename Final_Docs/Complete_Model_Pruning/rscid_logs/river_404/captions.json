@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the river across the greenland is limpid and <UNK> flowing .",
+        "Pruned_Predicted": "many green plants are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    },
+    {
+        "Expected": "<SOS> the curved river is partly shallow and partly deep going through this lush forest .",
+        "Pruned_Predicted": "many green plants are found on both sides of a curved river .",
+        "Unpruned_Predicted": "many green trees are in a forest ."
+    }
+]

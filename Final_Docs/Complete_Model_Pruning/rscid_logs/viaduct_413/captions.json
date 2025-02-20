@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> roads and viaducts forms to a cross over a saddle shaped line .",
+        "Pruned_Predicted": "many green trees and some buildings are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

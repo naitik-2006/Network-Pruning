@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the boats are of different sizes , and the water is dark green .",
+        "Pruned_Predicted": "many boats are in a port near a dock .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    },
+    {
+        "Expected": "<SOS> some boats are in a port near a parking lot .",
+        "Pruned_Predicted": "many boats are in a port near a dock .",
+        "Unpruned_Predicted": "many boats are ordered in a port near several green trees ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the building surrounded by aeroplanes is sandwiched between two airport runways is composed of an oval building and several narrow long buildings .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    },
+    {
+        "Expected": "<SOS> many planes are parked around a large building in an airport with runways .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

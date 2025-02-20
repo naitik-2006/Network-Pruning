@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> here we can see a <UNK> shaped church with a blue roof .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> a church is located near a row of ploygon houses with green roofs .",
+        "Pruned_Predicted": "a church is near a road with several cars .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

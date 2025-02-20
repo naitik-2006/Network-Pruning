@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> various of buildings embrace this rectangular playground .",
+        "Pruned_Predicted": "a playground is surrounded by many green trees and many buildings .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and many buildings ."
+    }
+]

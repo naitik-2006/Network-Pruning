@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> at the coner of the streets sits a cross like church with a black round roof on its heart .",
+        "Pruned_Predicted": "a church is near a road .",
+        "Unpruned_Predicted": "many green trees are around a building ."
+    }
+]

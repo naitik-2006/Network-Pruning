@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> are some blue factory buildings in the terrain surrounded by the extent of the saddle - shaped river .",
+        "Pruned_Predicted": "many green trees and urban areas are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

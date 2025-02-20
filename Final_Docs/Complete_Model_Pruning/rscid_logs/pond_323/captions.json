@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> an irregular pond surrounded by green trees and farmlands is near two parallel roads with cars .",
+        "Pruned_Predicted": "a pond is near a road with many green trees in two sides .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    },
+    {
+        "Expected": "<SOS> an irregular lagoon surrounded by green trees and agricultural land is close to two parallel roads with cars .",
+        "Pruned_Predicted": "a pond is near a road with many green trees in two sides .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved yellow river ."
+    }
+]

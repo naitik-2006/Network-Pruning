@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> we can see several ponds near a building surrounded by trees .",
+        "Pruned_Predicted": "a pond with dark green water in the middle .",
+        "Unpruned_Predicted": "many green trees and several buildings are in two sides of a curved river ."
+    },
+    {
+        "Expected": "<SOS> two quadrilateral ponds sit beside each other next to a house with white roof .",
+        "Pruned_Predicted": "a pond with dark green water in the middle .",
+        "Unpruned_Predicted": "many green trees and several buildings are in two sides of a curved river ."
+    }
+]

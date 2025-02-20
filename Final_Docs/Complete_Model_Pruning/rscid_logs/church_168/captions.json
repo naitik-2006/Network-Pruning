@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> we can see three blocks where all the buildings has grey roofs   among which there is a cross shaped church .",
+        "Pruned_Predicted": "many buildings and some green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> a line of cars and several green trees are near a church in an urban area .",
+        "Pruned_Predicted": "many buildings and some green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    }
+]

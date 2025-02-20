@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> red and green football grounds are in the middle of the stadium .",
+        "Pruned_Predicted": "a stadium with a football field in it is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> the bird nest stage is surrounded by vegetation regularly .",
+        "Pruned_Predicted": "a stadium with a football field in it is near a road .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

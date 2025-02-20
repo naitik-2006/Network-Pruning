@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is a narrow long <UNK> in the shape of black and white masses parallel to the shoreline .",
+        "Pruned_Predicted": "a yellow ribbon beach is between green ocean and black rocks .",
+        "Unpruned_Predicted": "a bridge is on a river with several green trees on two sides of it ."
+    }
+]

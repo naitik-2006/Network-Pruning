@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> we can see several workshop buildings with red roofs and blue roofs and white ones stands among farmland .",
+        "Pruned_Predicted": "a large building is near a river .",
+        "Unpruned_Predicted": "a football field is near several green trees and a building ."
+    }
+]

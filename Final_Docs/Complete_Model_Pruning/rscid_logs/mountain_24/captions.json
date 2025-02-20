@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> small rivers are between a piece of green mountains .",
+        "Pruned_Predicted": "the green hills are next to each other in an unbroken line .",
+        "Unpruned_Predicted": "many green trees are in a piece of forest ."
+    }
+]

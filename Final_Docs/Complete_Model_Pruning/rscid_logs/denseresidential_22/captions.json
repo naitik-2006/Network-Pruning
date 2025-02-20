@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two blocks of high elevation residential buildings cast shades on bare ground with trails .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> many buildings are orderly in a dense residential area .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a dense residential area ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> eight storage tanks of different sizes are near nueland .",
+        "Pruned_Predicted": "many storage tanks are near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    },
+    {
+        "Expected": "<SOS> eight storage tanks in different sizes are close to the bare land .",
+        "Pruned_Predicted": "many storage tanks are near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near a road ."
+    }
+]

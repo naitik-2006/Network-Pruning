@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the playground situates in the open space near the buildings and is integrated with lush plants .",
+        "Pruned_Predicted": "a playground with a basketball field next to it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

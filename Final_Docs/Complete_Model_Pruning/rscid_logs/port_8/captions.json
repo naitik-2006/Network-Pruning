@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> port resident house roof in red .",
+        "Pruned_Predicted": "many boats are in a port near a dock .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

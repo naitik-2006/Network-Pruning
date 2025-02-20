@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some metal spherical tanks and some white cylinder storage tanks are placed on the lawns with truck parking around .",
+        "Pruned_Predicted": "many storage tanks are surrounded by green trees .",
+        "Unpruned_Predicted": "many green trees and some buildings are in a medium residential area ."
+    }
+]

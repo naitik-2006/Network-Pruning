@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many green trees are around a triangular building .",
+        "Pruned_Predicted": "a round green and blue round building is sandwiched between a road and a building .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

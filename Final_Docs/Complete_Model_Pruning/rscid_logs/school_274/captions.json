@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> grass and <UNK> are in the middle of the teaching building .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school with a baseball field .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a school with a playground and some tennis courts ."
+    },
+    {
+        "Expected": "<SOS> a building is opposite the central square , surrounded by dark green trees .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school with a baseball field .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a school with a playground and some tennis courts ."
+    },
+    {
+        "Expected": "<SOS> many green trees and some buildings are in a school with three tennis courts .",
+        "Pruned_Predicted": "many green trees and some buildings are in a school with a baseball field .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a school with a playground and some tennis courts ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are several long curved side roads spanning the wide straight flyover in this <UNK> area .",
+        "Pruned_Predicted": "a large number of cars parked near the upper passageway .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

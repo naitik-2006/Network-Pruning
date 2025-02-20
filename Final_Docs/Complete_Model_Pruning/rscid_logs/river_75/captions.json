@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the river is flowing winds .",
+        "Pruned_Predicted": "many small buildings are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    },
+    {
+        "Expected": "<SOS> many buildings are near a curved river .",
+        "Pruned_Predicted": "many small buildings are located on two sides of a curved river .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

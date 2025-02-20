@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the church was surrounded by a large red roofed house .",
+        "Pruned_Predicted": "a red church is near several red buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> a dome church is located in the center of the residential area .",
+        "Pruned_Predicted": "a red church is near several red buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

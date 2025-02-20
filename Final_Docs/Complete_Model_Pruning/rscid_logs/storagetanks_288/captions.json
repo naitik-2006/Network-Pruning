@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the storage tank is next to the green sea .",
+        "Pruned_Predicted": "many storage tanks are in a factory near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> <UNK> oil storage tanks are there .",
+        "Pruned_Predicted": "many storage tanks are in a factory near a river .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the wide river lies across the extent of the earth with pieces of agricultural land and cities with dense houses .",
+        "Pruned_Predicted": "many green plants and several urban areas are in two sides of a curved river .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a t shaped termial building sits on a large apron .",
+        "Pruned_Predicted": "many planes are parked near several terminals in an airport with a parking lot .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

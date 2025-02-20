@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> white beach next to the white sea .",
+        "Pruned_Predicted": "the sea beat the white spray on the beach .",
+        "Unpruned_Predicted": "the sea beats the white spray on the beach ."
+    }
+]

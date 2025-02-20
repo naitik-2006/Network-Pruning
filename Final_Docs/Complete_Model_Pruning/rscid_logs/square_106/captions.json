@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> this semi - circular square is marked with white lines .",
+        "Pruned_Predicted": "a basketball court is next to the center .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> a square in half circle is surrounded by green meadows .",
+        "Pruned_Predicted": "a basketball court is next to the center .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

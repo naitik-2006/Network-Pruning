@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> <UNK> wrinkles can be seen in this desert .",
+        "Pruned_Predicted": "it 's a big piece of yellow desert .",
+        "Unpruned_Predicted": "it 's a big piece of yellow desert ."
+    },
+    {
+        "Expected": "<SOS> there are a series of parallel orange arches on the desert .",
+        "Pruned_Predicted": "it 's a big piece of yellow desert .",
+        "Unpruned_Predicted": "it 's a big piece of yellow desert ."
+    }
+]

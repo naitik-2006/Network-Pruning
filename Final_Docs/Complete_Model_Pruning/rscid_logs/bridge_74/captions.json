@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> have a long bridge , across the bright green above the river .",
+        "Pruned_Predicted": "many green trees are on two sides of a curved black grey river .",
+        "Unpruned_Predicted": "a large piece of beach is between an ocean and some buildings ."
+    }
+]

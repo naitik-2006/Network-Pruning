@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> next to the green grass is brown land .",
+        "Pruned_Predicted": "a square is near a river with a bridge .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and several buildings ."
+    },
+    {
+        "Expected": "<SOS> it 's a dense forest .",
+        "Pruned_Predicted": "a square is near a river with a bridge .",
+        "Unpruned_Predicted": "a playground is surrounded by many green trees and several buildings ."
+    }
+]

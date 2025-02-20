@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are two ponds in this area while the water of the left one is blue and that of the other one is grey .",
+        "Pruned_Predicted": "some green trees and bare land are around an irregular pond .",
+        "Unpruned_Predicted": "many green trees are in two sides of a curved river ."
+    }
+]

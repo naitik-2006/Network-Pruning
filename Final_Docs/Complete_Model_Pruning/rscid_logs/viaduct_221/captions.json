@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings and green plants are close to a viaduct .",
+        "Pruned_Predicted": "many buildings and green trees are near a viaduct .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    },
+    {
+        "Expected": "<SOS> three flyover span the bustling curved road next to this dense residential area .",
+        "Pruned_Predicted": "many buildings and green trees are near a viaduct .",
+        "Unpruned_Predicted": "many green trees and several buildings are in a resort with a pond ."
+    }
+]

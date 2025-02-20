@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> five neat spherical storage tank .",
+        "Pruned_Predicted": "there are many storage tanks in front of the orange <UNK> .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot near several green trees ."
+    }
+]

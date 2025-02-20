@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> two tennis courts and a tennis court are in two sides of a road .",
+        "Pruned_Predicted": "a tennis court is surrounded by some green trees and buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> two tennis courts and one tennis court are in two sides of a road .",
+        "Pruned_Predicted": "a tennis court is surrounded by some green trees and buildings .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

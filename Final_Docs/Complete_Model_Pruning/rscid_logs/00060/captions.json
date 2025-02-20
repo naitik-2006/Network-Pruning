@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a large playground is surrounded by many trees and buildings next to a street .",
+        "Pruned_Predicted": "a playground with a basketball field in it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings are located on two sides of a train station ."
+    },
+    {
+        "Expected": "<SOS> five white buildings and nearby a grey road .",
+        "Pruned_Predicted": "a playground with a basketball field in it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings are located on two sides of a train station ."
+    }
+]

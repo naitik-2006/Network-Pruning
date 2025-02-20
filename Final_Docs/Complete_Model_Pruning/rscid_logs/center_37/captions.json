@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> there 's a white building in the middle of the earth .",
+        "Pruned_Predicted": "a white building is near a river with a boat in it .",
+        "Unpruned_Predicted": "the white waves are between the yellow beach and the blue ocean ."
+    },
+    {
+        "Expected": "<SOS> the building is surrounded by grey trails .",
+        "Pruned_Predicted": "a white building is near a river with a boat in it .",
+        "Unpruned_Predicted": "the white waves are between the yellow beach and the blue ocean ."
+    }
+]

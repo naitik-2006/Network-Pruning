@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> several curved side roads overpasses the viaduct over the road next to a residential area and a sports field .",
+        "Pruned_Predicted": "many buildings with a playground are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

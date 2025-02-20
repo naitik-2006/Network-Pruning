@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the dark school with a round building is separated by some streets .",
+        "Pruned_Predicted": "many buildings are in a commercial area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]

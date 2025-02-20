@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> what stand beside a row of houses include a tennis court , a basketball court and a attractive white building .",
+        "Pruned_Predicted": "a tennis court is surrounded by several buildings and two rows of green trees .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    },
+    {
+        "Expected": "<SOS> a basketball field and a tennis court are surrounded by several buildings .",
+        "Pruned_Predicted": "a tennis court is surrounded by several buildings and two rows of green trees .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

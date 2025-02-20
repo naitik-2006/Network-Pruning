@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a rectangular lake is close to three small squares .",
+        "Pruned_Predicted": "a small road is located in diagonal position of a rectangular lake .",
+        "Unpruned_Predicted": "a bridge is on a river with some green trees and parking lots on two sides of it ."
+    }
+]

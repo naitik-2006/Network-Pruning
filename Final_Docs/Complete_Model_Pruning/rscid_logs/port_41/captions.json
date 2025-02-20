@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there is only a small <UNK> connects the port surrounded by buildings and the sea .",
+        "Pruned_Predicted": "many boats are in a port near many buildings .",
+        "Unpruned_Predicted": "many boats are in a port near many buildings ."
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> many buildings and agricultural land are on two sides of a viaduct with four circles around the green trees .",
+        "Pruned_Predicted": "many green trees and some buildings are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> many buildings and agricultural land are located on two sides of a viaduct with four circles around green trees .",
+        "Pruned_Predicted": "many green trees and some buildings are near a viaduct .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a school ."
+    }
+]

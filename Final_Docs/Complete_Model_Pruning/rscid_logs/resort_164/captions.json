@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> several buildings and many green trees are located in a complex near a beach .",
+        "Pruned_Predicted": "several buildings with a swimming pool are surrounded by several green trees .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    },
+    {
+        "Expected": "<SOS> several buildings and many green trees are in a resort near a beach .",
+        "Pruned_Predicted": "several buildings with a swimming pool are surrounded by several green trees .",
+        "Unpruned_Predicted": "many green buildings and trees are in a dense residential area ."
+    }
+]

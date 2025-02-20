@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> these are   neatly arranged rectangular residential blocks .",
+        "Pruned_Predicted": "many green buildings and trees are located in a dense residential area .",
+        "Unpruned_Predicted": "many buildings and green trees are in a dense residential area ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> in the factory with road passing through   there are several buildings with white and blue roofs as well as some cylinder grey storage tanks .",
+        "Pruned_Predicted": "a white rectangle center building is near a road with some green trees and several buildings with parking lots .",
+        "Unpruned_Predicted": "many buildings are in an industrial area ."
+    }
+]

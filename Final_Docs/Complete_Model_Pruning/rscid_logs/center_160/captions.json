@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> many green trees are around a building in a circle .",
+        "Pruned_Predicted": "many buildings and some green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> many green trees are around a circle building .",
+        "Pruned_Predicted": "many buildings and some green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> many green trees are around a circle building .",
+        "Pruned_Predicted": "many buildings and some green trees are in two sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

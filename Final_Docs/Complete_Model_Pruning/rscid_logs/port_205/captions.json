@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> dozens of boats stop inside this port next to lawns and a building .",
+        "Pruned_Predicted": "many cars are parked in a parking lot near a large building .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> in the port we can see some boats tied side by side .",
+        "Pruned_Predicted": "many cars are parked in a parking lot near a large building .",
+        "Unpruned_Predicted": "many buildings and some green trees are in an industrial area ."
+    }
+]

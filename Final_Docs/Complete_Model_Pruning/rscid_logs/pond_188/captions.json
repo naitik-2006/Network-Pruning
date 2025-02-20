@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> farmlands are around an irregular pond .",
+        "Pruned_Predicted": "a pond is near a road with green trees in two sides .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

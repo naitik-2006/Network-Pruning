@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> a playground , two high - rise buildings and several low - rise buildings form a block which is close to the street .",
+        "Pruned_Predicted": "a playground with two basketball fields in it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    },
+    {
+        "Expected": "<SOS> a playground is surrounded by many trees and houses .",
+        "Pruned_Predicted": "a playground with two basketball fields in it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

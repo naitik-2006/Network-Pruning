@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a regular community with exercise <UNK> while lush plants integrated .",
+        "Pruned_Predicted": "a playground with three basketball fields in it is surrounded by many buildings .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

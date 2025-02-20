@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> several buildings and many green trees are near a river .",
+        "Pruned_Predicted": "several buildings with swimming pool are semi - surrounded by a piece of water .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    },
+    {
+        "Expected": "<SOS> several buildings and many green trees are near a river .",
+        "Pruned_Predicted": "several buildings with swimming pool are semi - surrounded by a piece of water .",
+        "Unpruned_Predicted": "many buildings and green trees are in a school ."
+    }
+]

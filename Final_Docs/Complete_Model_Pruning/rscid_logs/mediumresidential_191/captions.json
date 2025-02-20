@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> crossed roads pass through this beautiful neighborhood decorated with trees and lawns .",
+        "Pruned_Predicted": "many green buildings and trees are located in an average residential area .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    },
+    {
+        "Expected": "<SOS> the residential is surrounded by some trees .",
+        "Pruned_Predicted": "many green buildings and trees are located in an average residential area .",
+        "Unpruned_Predicted": "many green trees are around a building with a swimming pool ."
+    }
+]

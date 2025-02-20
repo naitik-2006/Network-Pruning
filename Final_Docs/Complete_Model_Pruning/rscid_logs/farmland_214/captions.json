@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> here is some blocks of farmland with trees on the edge of them .",
+        "Pruned_Predicted": "many pieces of yellow farmlands are together .",
+        "Unpruned_Predicted": "it 's a piece of irregular khaki nueland ."
+    }
+]

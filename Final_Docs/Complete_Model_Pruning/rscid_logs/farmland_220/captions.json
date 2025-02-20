@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> the green agricultural land surrounds one white and both are surrounded by the baulk .",
+        "Pruned_Predicted": "many pieces of farmlands are orderly together .",
+        "Unpruned_Predicted": "a small wild road is in a piece of green agricultural land ."
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "Expected": "<SOS> many green trees are found in a circle square surrounded by a circle road and several buildings .",
+        "Pruned_Predicted": "many buildings and some green trees are in two sides of a river with a bridge .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> many green trees are in a circular square surrounded by a circular street and several buildings .",
+        "Pruned_Predicted": "many buildings and some green trees are in two sides of a river with a bridge .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    },
+    {
+        "Expected": "<SOS> many green trees are located in a circle square surrounded by a circle road and several buildings .",
+        "Pruned_Predicted": "many buildings and some green trees are in two sides of a river with a bridge .",
+        "Unpruned_Predicted": "many buildings and some green trees are in a commercial area ."
+    }
+]

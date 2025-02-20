@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a block with neatly - arranged buildings and playground is encircled by a round - shaped <UNK> .",
+        "Pruned_Predicted": "a playground with three basketball fields in it is surrounded by many trees and houses .",
+        "Unpruned_Predicted": "many buildings and some bare land are located in an industrial area ."
+    }
+]

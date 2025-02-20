@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> the edge of the farmland .",
+        "Pruned_Predicted": "many pieces of farmlands are orderly together .",
+        "Unpruned_Predicted": "a road is in a piece of meadow ."
+    },
+    {
+        "Expected": "<SOS> the size of the farmland .",
+        "Pruned_Predicted": "many pieces of farmlands are orderly together .",
+        "Unpruned_Predicted": "a road is in a piece of meadow ."
+    }
+]

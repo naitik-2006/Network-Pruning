@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> two of the seven columnar tanks are without <UNK> .",
+        "Pruned_Predicted": "there are only a few strips on the deserted land .",
+        "Unpruned_Predicted": "many planes are parked near several terminals in an airport with several parking lots ."
+    }
+]

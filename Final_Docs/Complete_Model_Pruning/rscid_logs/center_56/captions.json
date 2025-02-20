@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> a center building is composed of two circle buildings .",
+        "Pruned_Predicted": "a white building with a green pond and several green trees is near a river .",
+        "Unpruned_Predicted": "a large building with a swimming pool is near a beach in a resort ."
+    }
+]

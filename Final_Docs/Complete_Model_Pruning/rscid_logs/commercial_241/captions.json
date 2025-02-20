@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> some high buildings and parking lots are on two sides of a road in a commercial area .",
+        "Pruned_Predicted": "many buildings are located on both sides of a railway station .",
+        "Unpruned_Predicted": "many buildings and some bareland are in an industrial area ."
+    }
+]

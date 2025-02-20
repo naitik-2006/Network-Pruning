@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> next to the pond is irregular form of green space .",
+        "Pruned_Predicted": "a large pond in a park is surrounded by many buildings .",
+        "Unpruned_Predicted": "many green trees and several buildings are in two sides of a river with a bridge over it ."
+    }
+]

@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> it is a large piece of farmland .",
+        "Pruned_Predicted": "the <UNK> of the <UNK> fields and the rectangular fields is green .",
+        "Unpruned_Predicted": "many pieces of agricultural land are together ."
+    }
+]

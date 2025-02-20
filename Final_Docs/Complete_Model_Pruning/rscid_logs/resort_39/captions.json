@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> there are two outdoor swimming pools in the resort .",
+        "Pruned_Predicted": "there is a holiday house on the beach .",
+        "Unpruned_Predicted": "a large building with a swimming pool is near a beach in a resort ."
+    }
+]

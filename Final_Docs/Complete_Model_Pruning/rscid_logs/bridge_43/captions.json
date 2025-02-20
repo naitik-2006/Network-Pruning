@@ -1,0 +1,7 @@
+[
+    {
+        "Expected": "<SOS> many ships <UNK> on the river .",
+        "Pruned_Predicted": "a bridge is on a yellow undulation .",
+        "Unpruned_Predicted": "a large number of cars parked near the airport plains ."
+    }
+]

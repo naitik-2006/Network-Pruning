@@ -1,0 +1,12 @@
+[
+    {
+        "Expected": "<SOS> some trees and cottages are located in a corner of the residential .",
+        "Pruned_Predicted": "many buildings and some green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    },
+    {
+        "Expected": "<SOS> some trees and cottages are in a corner of the residential .",
+        "Pruned_Predicted": "many buildings and some green trees are in a dense residential area .",
+        "Unpruned_Predicted": "many cars are parked in a parking lot with several green trees ."
+    }
+]
